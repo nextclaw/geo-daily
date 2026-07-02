@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="{{ site_language }}" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+  <title>{% block title %}{{ site_name }}{% endblock %}</title>
+  <meta name="description" content="{% block description %}{{ site_description }}{% endblock %}" />
+  <meta name="robots" content="{% block robots_content %}index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1{% endblock %}" />
+  {% block author_meta %}{% endblock %}
+  {% block keywords_meta %}{% endblock %}
+
+  {% if canonical_url %}<link rel="canonical" href="{{ canonical_url }}" />{% endif %}
+
+  <meta property="og:type" content="{% block og_type %}website{% endblock %}" />
+  <meta property="og:title" content="{% block og_title %}{{ site_name }}{% endblock %}" />
+  <meta property="og:description" content="{% block og_description %}{{ site_description }}{% endblock %}" />
+  <meta property="og:site_name" content="{{ site_name }}" />
+  {% if canonical_url %}<meta property="og:url" content="{{ canonical_url }}" />{% endif %}
+  {% block og_extra %}{% endblock %}
+
+  <meta name="twitter:card" content="{% block twitter_card %}summary_large_image{% endblock %}" />
+  <meta name="twitter:title" content="{% block twitter_title %}{{ site_name }}{% endblock %}" />
+  <meta name="twitter:description" content="{% block twitter_description %}{{ site_description }}{% endblock %}" />
+  {% block twitter_extra %}{% endblock %}
+
+  {% block alternate %}{% endblock %}
+
+  <link rel="alternate" type="application/atom+xml" title="{{ site_name }} Feed" href="/feed.xml" />
+
+  <link rel="stylesheet" href="/assets/css/style.css{{ asset_hash.style }}" />
+  <link rel="stylesheet" href="/assets/css/codehilite.css{{ asset_hash.codehilite }}" />
+  {% if theme_css_exists %}<link rel="stylesheet" href="/assets/css/theme.css{{ asset_hash.theme }}" />{% endif %}
+  {% if custom_css_exists %}<link rel="stylesheet" href="/assets/css/custom.css{{ asset_hash.custom }}" />{% endif %}
+
+  {% block head_extra %}{% endblock %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="site-logo" aria-label="{{ site_name }} home">
+        <span class="logo-icon">{{ site_logo_letter }}</span>
+        <span>{{ site_name }}</span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="/">Home</a>
+        {% for cat in nav_categories %}
+        <a href="/category/{{ cat.slug }}/" title="{{ cat.name }} ({{ cat.count }})">{{ cat.name }}</a>
+        {% endfor %}
+        {% if explorer_enabled and explorer_expose_in_nav %}
+        <a href="/explorer/" title="Browse the article tree">Explorer</a>
+        {% endif %}
+        {% if tags_enabled %}
+        <a href="/tags/" title="Browse by tags">Tags</a>
+        {% endif %}
+        <a href="/feed.xml" title="Atom feed">Feed</a>
+        <button id="themeToggle" class="theme-toggle" aria-label="Toggle theme">🌙</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Powered by <a href="https://github.com/nextclaw/janus-md" target="_blank" rel="noopener">Janus-MD</a>
+      &middot; HTML for humans, Markdown for AI
+    </p>
+  </footer>
+
+  <script src="/assets/js/main.js{{ asset_hash.main_js }}"></script>
+  {% block scripts %}{% endblock %}
+  {% if has_math %}
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['\\(', '\\)'], ['$', '$']],
+        displayMath: [['\\[', '\\]'], ['$$', '$$']],
+        processEscapes: true,
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+      },
+    };
+  </script>
+  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  {% endif %}
+  {% if has_mermaid %}
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'default',
+    });
+  </script>
+  {% endif %}
+</body>
+</html>

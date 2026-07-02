@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block title %}{{ site_name }}{% endblock %}
+{% block description %}{{ site_description }}{% endblock %}
+{% block og_title %}{{ site_name }}{% endblock %}
+{% block og_description %}{{ site_description }}{% endblock %}
+{% block twitter_title %}{{ site_name }}{% endblock %}
+{% block twitter_description %}{{ site_description }}{% endblock %}
+
+{% block head_extra %}
+  <script type="application/ld+json">
+{{ structured_data_json | safe }}
+  </script>
+{% endblock %}
+
+{% block content %}
+<div class="page-hero">
+  <h1><span class="gradient-text">{{ site_name }}</span></h1>
+  <p>{{ site_description }}<br />HTML for humans, Markdown for AI.</p>
+</div>
+
+<div class="article-grid">
+  {% for article in articles %}
+  <a href="{{ article.html_path }}" class="article-card">
+    <h2>{{ article.meta.title }}</h2>
+    <p class="card-desc">{{ article.meta.description }}</p>
+    <div class="card-meta">
+      <span>📅 {{ article.meta.date }}</span>
+      {% if article.meta.author_display %}<span>✍️ {{ article.meta.author_display }}</span>{% endif %}
+      {% if article.meta.tags %}
+      <div class="article-tags">
+        {% for tag in article.meta.tags %}
+        <span class="tag">#{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </a>
+  {% endfor %}
+</div>
+
+{% if total_pages > 1 %}
+<nav class="pagination" aria-label="Page navigation">
+  {% if prev_url %}
+  <a href="{{ prev_url }}" class="pagination-link pagination-prev">← Previous</a>
+  {% else %}
+  <span class="pagination-link pagination-prev disabled">← Previous</span>
+  {% endif %}
+
+  <span class="pagination-info">Page {{ page_num }} / {{ total_pages }}</span>
+
+  {% if next_url %}
+  <a href="{{ next_url }}" class="pagination-link pagination-next">Next →</a>
+  {% else %}
+  <span class="pagination-link pagination-next disabled">Next →</span>
+  {% endif %}
+</nav>
+{% endif %}
+{% endblock %}

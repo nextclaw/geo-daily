@@ -1,0 +1,64 @@
+[site]
+url         = "https://example.com"   # ← 改为你的域名（无末尾斜杠）
+name        = "My Site"
+description = "A dual-state static site powered by Janus-MD"
+language    = "en"
+author      = "Your Name"
+
+[build]
+articles_dir  = "articles"    # 支持子目录，递归扫描 .md 文件
+templates_dir = "templates"
+static_dir    = "static"
+dist_dir      = "dist"
+verification_dir = "verification"  # 根级验证文件目录，会复制到 dist/ 根目录
+pages_dir     = "pages"            # 纯静态页面目录，内容会直接复制到 dist/ 根目录
+
+[feed]
+max_entries = 20              # Atom feed 最多收录条目数
+
+[theme]
+# 自定义主题变量文件 — 仅覆盖 CSS Custom Properties（颜色、字体、间距）
+theme_css = "static/css/theme.css"
+# 自定义追加样式文件 — 任意 CSS，最高优先级
+custom_css = "static/css/custom.css"
+
+[markdown]
+# python-markdown 扩展列表
+extensions = [
+  "extra",        # tables, fenced_code, footnotes, attr_list, def_list
+  "codehilite",   # Pygments 语法高亮
+  "toc",          # 自动生成目录 + heading 锚点
+  "sane_lists",   # 更符合直觉的列表行为
+  "smarty",       # 智能引号、破折号
+]
+
+[explorer]
+enabled = true
+expose_in_nav = true
+
+[index]
+paginate = false       # 是否启用首页分页
+per_page = 50          # 每页显示的文章数
+
+[article]
+toc_link = true        # 文章页是否显示同目录 _toc 回链（📚 目录）
+
+[task_markers]
+# "text"  = 原始 [ ], [-], [x], [!], [~] 彩色 CSS 徽章（默认）
+# "emoji" = 🔲 🔄 ✅ 🚫 ⏸️ Unicode emoji 替换
+style = "text"
+
+[features]
+# Global feature toggles — article frontmatter overrides (toc/math/mermaid)
+toc = false              # Article page right-side TOC sidebar (sticky + scroll tracking)
+rating = false           # Show rating stars (frontmatter rating → ⭐/☆)
+lastmod = false          # Prefer lastmod over date for display
+cover = false            # Show cover image (frontmatter cover → hero image)
+math = true              # MathJax on-demand loading (true = backward compat)
+mermaid = true           # Mermaid on-demand loading
+
+[categories]
+expose_in_nav = false    # Expose all categories in navigation bar
+
+[tags]
+enabled = false          # Enable /tags/ tag cloud and /tags/<tag>/ article lists
