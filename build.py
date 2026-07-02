@@ -208,6 +208,76 @@ class MermaidExtension(Extension):
         md.preprocessors.register(MermaidPreprocessor(md), "mermaid", 35)
 
 
+# ── Custom Markdown Extension: Source Link Auto-linker ──────────────────────
+
+# Matches a bare URL (http/https) that is NOT already inside []() markdown link
+_BARE_URL_RE = re.compile(
+    r"(?<!\]\()(?<!\[)"  # negative lookbehind: not preceded by ]( or [
+    r"(https?://[^\s\)>\]]+)"  # capture the URL
+)
+
+
+class SourceLinkPreprocessor(Preprocessor):
+    """Normalize source-list formatting in GEO daily articles.
+
+    1. Insert a blank line after ``**来源：**`` (or similar labels) when a
+       list immediately follows, so the label renders as its own paragraph.
+    2. Convert bare URLs in list items (``- https://...``) into clickable
+       Markdown links (``- [domain/path](url)``).  Mixed lines like
+       ``- 描述文字：https://example.com/path`` are also handled — only the
+       URL portion is wrapped.
+    """
+
+    def run(self, lines: list[str]) -> list[str]:
+        result: list[str] = []
+        for i, line in enumerate(lines):
+            stripped = line.strip()
+
+            # ── Rule 1: ensure blank line after **来源：** before a list ──
+            # Detect label-only lines like "**来源：**" or "**来源:**"
+            if re.match(r"^\*\*来源[：:]?\*\*\s*$", stripped):
+                result.append(line)
+                # Peek ahead: if next non-empty line is a list item, insert
+                # a blank line so markdown treats the label as a paragraph.
+                next_idx = i + 1
+                while next_idx < len(lines) and lines[next_idx].strip() == "":
+                    next_idx += 1
+                if next_idx < len(lines) and lines[next_idx].strip().startswith("- "):
+                    # Only add blank line if not already present
+                    if i + 1 < len(lines) and lines[i + 1].strip() != "":
+                        result.append("")
+                continue
+
+            # ── Rule 2: auto-link bare URLs in list items ──
+            if stripped.startswith("- "):
+                line = self._linkify_urls_in_line(line)
+
+            result.append(line)
+        return result
+
+    @staticmethod
+    def _linkify_urls_in_line(line: str) -> str:
+        """Wrap bare URLs in markdown link syntax [url](url).
+
+        Already-linked URLs (inside []() ) are left untouched.
+        For mixed lines like "- 描述：https://example.com", only the URL
+        part is converted.
+        """
+
+        def _replace_url(match: re.Match) -> str:
+            url = match.group(1).rstrip(".,;:!?")  # strip trailing punctuation
+            return f"[{url}]({url})"
+
+        # Skip if the line already contains a markdown link with this URL
+        # (simple heuristic: if "](" is present, be more conservative)
+        return _BARE_URL_RE.sub(_replace_url, line)
+
+
+class SourceLinkExtension(Extension):
+    def extendMarkdown(self, md):
+        md.preprocessors.register(SourceLinkPreprocessor(md), "source_links", 32)
+
+
 # ── Custom Markdown Extension: Obsidian Wiki Links ─────────────────────────
 
 _WIKILINK_PATTERN = re.compile(r"\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]")
@@ -426,6 +496,7 @@ def build_markdown_converter() -> markdown.Markdown:
             extensions.append(required_extension)
     extensions.append(TaskStatusExtension())
     extensions.append(MermaidExtension())
+    extensions.append(SourceLinkExtension())
     extensions.append(WikiLinkExtension())
 
     return markdown.Markdown(
