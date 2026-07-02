@@ -218,38 +218,45 @@ _BARE_URL_RE = re.compile(
 
 
 class SourceLinkPreprocessor(Preprocessor):
-    """Normalize source-list formatting in GEO daily articles.
+    """Normalize list formatting and auto-link bare URLs.
 
-    1. Insert a blank line after ``**来源：**`` (or similar labels) when a
-       list immediately follows, so the label renders as its own paragraph.
+    1. Ensure a blank line exists before any ``- `` unordered list that
+       immediately follows a non-list, non-blank line.  Without the blank
+       line, standard Markdown treats the preceding text and the list as
+       a single block, causing labels like ``**来源：**`` to be merged
+       into the first ``<li>`` instead of rendering as their own ``<p>``.
     2. Convert bare URLs in list items (``- https://...``) into clickable
-       Markdown links (``- [domain/path](url)``).  Mixed lines like
-       ``- 描述文字：https://example.com/path`` are also handled — only the
-       URL portion is wrapped.
+       Markdown links ``[url](url)``.  Mixed lines like
+       ``- 描述文字：https://example.com/path`` are also handled — only
+       the URL portion is wrapped.
     """
+
+    @staticmethod
+    def _is_list_item(line: str) -> bool:
+        """Return True if *line* is an unordered list item (- or *)."""
+        s = line.lstrip()
+        return s.startswith("- ") or s.startswith("* ")
 
     def run(self, lines: list[str]) -> list[str]:
         result: list[str] = []
-        for i, line in enumerate(lines):
+        for line in lines:
             stripped = line.strip()
 
-            # ── Rule 1: ensure blank line after **来源：** before a list ──
-            # Detect label-only lines like "**来源：**" or "**来源:**"
-            if re.match(r"^\*\*来源[：:]?\*\*\s*$", stripped):
-                result.append(line)
-                # Peek ahead: if next non-empty line is a list item, insert
-                # a blank line so markdown treats the label as a paragraph.
-                next_idx = i + 1
-                while next_idx < len(lines) and lines[next_idx].strip() == "":
-                    next_idx += 1
-                if next_idx < len(lines) and lines[next_idx].strip().startswith("- "):
-                    # Only add blank line if not already present
-                    if i + 1 < len(lines) and lines[i + 1].strip() != "":
+            # ── Rule 1: insert blank line before a list when missing ──
+            if self._is_list_item(stripped) and result:
+                # Walk back over any trailing blank lines we already emitted
+                prev_idx = len(result) - 1
+                while prev_idx >= 0 and result[prev_idx].strip() == "":
+                    prev_idx -= 1
+                # If the last non-blank line is NOT itself a list item,
+                # we need a blank separator so Markdown starts a new block.
+                if prev_idx >= 0 and not self._is_list_item(result[prev_idx]):
+                    # Only insert if there isn't already a blank line
+                    if result[-1].strip() != "":
                         result.append("")
-                continue
 
             # ── Rule 2: auto-link bare URLs in list items ──
-            if stripped.startswith("- "):
+            if self._is_list_item(stripped):
                 line = self._linkify_urls_in_line(line)
 
             result.append(line)
