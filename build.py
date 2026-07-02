@@ -36,7 +36,6 @@ from markdown import Extension
 from markdown.preprocessors import Preprocessor
 from markdown.treeprocessors import Treeprocessor
 
-
 # ── Load configuration ──────────────────────────────────────────────────────
 
 BASE_DIR = Path(__file__).parent
@@ -83,18 +82,18 @@ _article_cfg = _cfg.get("article", {})
 ARTICLE_TOC_LINK = bool(_article_cfg.get("toc_link", False))
 
 _features_cfg = _cfg.get("features", {})
-FEATURE_TOC = bool(_features_cfg.get("toc", False))
-FEATURE_RATING = bool(_features_cfg.get("rating", False))
-FEATURE_LASTMOD = bool(_features_cfg.get("lastmod", False))
-FEATURE_COVER = bool(_features_cfg.get("cover", False))
+FEATURE_TOC = bool(_features_cfg.get("toc", True))
+FEATURE_RATING = bool(_features_cfg.get("rating", True))
+FEATURE_LASTMOD = bool(_features_cfg.get("lastmod", True))
+FEATURE_COVER = bool(_features_cfg.get("cover", True))
 FEATURE_MATH = bool(_features_cfg.get("math", True))
 FEATURE_MERMAID = bool(_features_cfg.get("mermaid", True))
 
 _categories_cfg = _cfg.get("categories", {})
-CATEGORIES_EXPOSE_IN_NAV = bool(_categories_cfg.get("expose_in_nav", False))
+CATEGORIES_EXPOSE_IN_NAV = bool(_categories_cfg.get("expose_in_nav", True))
 
 _tags_cfg = _cfg.get("tags", {})
-TAGS_ENABLED = bool(_tags_cfg.get("enabled", False))
+TAGS_ENABLED = bool(_tags_cfg.get("enabled", True))
 
 
 # ── Custom Markdown Extension: Task Status Markers ─────────────────────────
@@ -421,6 +420,7 @@ def build_markdown_converter() -> markdown.Markdown:
         "pymdownx.emoji",
         "pymdownx.arithmatex",
         "pymdownx.mark",
+        "pymdownx.tilde",
     ):
         if required_extension not in extensions:
             extensions.append(required_extension)
@@ -917,12 +917,9 @@ def build():
         key=lambda t: (-t["count"], t["slug"]),
     )
 
-    if nav_categories:
-        print(f"📂 Categories: {', '.join(c['slug'] for c in nav_categories)}")
-    if all_tags:
-        print(f"🏷️  Tags: {len(all_tags)} unique tag(s)")
-    if nav_categories or all_tags:
-        print()
+    print(f"📂 Categories: {', '.join(c['slug'] for c in nav_categories) or '(none)'}")
+    print(f"🏷️  Tags: {len(all_tags)} unique tag(s)")
+    print()
 
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATES_DIR)),
