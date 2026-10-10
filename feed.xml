@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GEO Daily Report</title>
+  <subtitle>GEO Daily Report</subtitle>
+  <link href="https://daily.localgpt.net/" rel="alternate" type="text/html"/>
+  <link href="https://daily.localgpt.net/feed.xml" rel="self" type="application/atom+xml"/>
+  <id>https://daily.localgpt.net/</id>
+  <updated>2026-10-10T00:00:00Z</updated>
+  <entry>
+    <title>GEO 早报 2026-10-10</title>
+    <link href="https://daily.localgpt.net/2026-10-10-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-10-10-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-10-10-geo-daily/</id>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-10-10</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;结论：过去 24 小时未核验到足够可靠、可归因于当天的 GEO 重大产品发布、引用机制变化或资本事件。今日应把重点放在监测框架与来源核验，而不是追逐低质量“GEO”噪声。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;1&quot;&gt;1. 今日主要动态&lt;/h2&gt;
+&lt;h3 id=&quot;11-google-ai&quot;&gt;1.1 暂无可确认的 Google AI 搜索新公告&lt;/h3&gt;
+&lt;p&gt;本轮英文检索未得到可核验的 Google AI Overview / AI Mode 官方新增公告。搜索结果主要返回 Google 首页，不能据此推断产品变化。&lt;/p&gt;
+&lt;p&gt;来源（官方入口，仅作持续监测）：https://www.google.com/&lt;/p&gt;
+&lt;h3 id=&quot;12-chatgpt&quot;&gt;1.2 暂无可确认的 ChatGPT 搜索或引用机制更新&lt;/h3&gt;
+&lt;p&gt;未检索到过去 24 小时内由 OpenAI 官方发布、且明确涉及 ChatGPT Search、引用展示或检索排序的新增公告。OpenAI 首页属于官方入口，但不是本次变化的证据。&lt;/p&gt;
+&lt;p&gt;来源：https://openai.com/&lt;/p&gt;
+&lt;h3 id=&quot;13-geo&quot;&gt;1.3 GEO 方法论信号：来源质量仍是核心约束&lt;/h3&gt;
+&lt;p&gt;本轮结果出现大量无关页面、旧内容和泛化“GEO”词条，说明仅以 GEO 作为关键词容易混入基因表达数据库、泛 AI 介绍及低质量营销页面。实际监测应采用产品名、官方域名、公告类型和明确时间窗组合查询，并对每条结论进行页面级核验。&lt;/p&gt;
+&lt;p&gt;来源（本轮结果中的相关背景页）：https://www.youfind.hk/cn/blog/what-are-the-sources-of-ai-overview.html&lt;/p&gt;
+&lt;h3 id=&quot;14&quot;&gt;1.4 资本市场/创业公司信号：未发现高可信新增&lt;/h3&gt;
+&lt;p&gt;针对 Profound、Peec AI、Otterly.AI 等 AI 搜索可见度/GEO 公司及相关融资、并购、IPO、估值信号的检索，没有得到可由公司公告、投资机构、监管文件或高可信媒体交叉验证的过去 24 小时新增事件。不得把搜索结果中的职位页或泛介绍当作融资证据。&lt;/p&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未发现高可信新增融资/上市动态。未确认 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI、Writesonic、BrightEdge、Semrush、Ahrefs、Similarweb、Yext、Conductor 或 Botify 的新增融资、并购、IPO/上市、估值变化或投资人公开观点。&lt;/p&gt;
+&lt;p&gt;可信度判断：本项为“未发现”，不是对所有公司不存在事件的绝对证明；本轮搜索结果噪声较高，缺少可提取的公司公告、监管文件或主流财经媒体报道，因此不作强结论。值得跟踪的趋势是：GEO 工具商业化能否从“品牌在答案中出现”进一步转向可审计的引用来源、转化归因和跨模型测量。&lt;/p&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;复核 Google 官方 Search/AI 产品公告页，重点看 AI Mode、AI Overviews 的引用展示和站长控制变化。&lt;/li&gt;
+&lt;li&gt;对目标品牌建立跨 ChatGPT Search、Perplexity、Gemini 与 Google 的同问题基线，记录答案、引用域名、排名和转化路径，而非只记录是否出现。&lt;/li&gt;
+&lt;li&gt;继续跟踪 GEO 监测公司的融资与产品发布；若出现公告，优先以公司、投资方、监管文件和独立媒体至少两类来源交叉验证。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_2&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;检索窗口：Asia/Singapore 2026-10-09 09:00 至 2026-10-10 09:00；日报日期为 2026-10-10。&lt;/li&gt;
+&lt;li&gt;搜索后端：默认 &lt;code&gt;web_search&lt;/code&gt;。未使用额外 fallback；环境中未调用补充搜索后端。&lt;/li&gt;
+&lt;li&gt;失败与限制：搜索结果相关性明显偏低，出现大量无关页面、旧页面、泛化首页和重复结果；未对同一查询反复重试，达到足够判断后收敛。&lt;/li&gt;
+&lt;li&gt;实际搜索调用：10 次；提取 URL：0 个。由于没有得到可靠的当天具体公告页，未将不可核验结果包装为新闻。&lt;/li&gt;
+&lt;li&gt;来源数量与交叉验证：可作为背景/官方入口列出的 URL 为 3 个；没有一条当天动态达到独立来源交叉验证标准。因此正文明确标注“未核验到重大新增”，结论强度降低。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-10-09</title>
+    <link href="https://daily.localgpt.net/2026-10-09-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-10-09-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-10-09-geo-daily/</id>
+    <updated>2026-10-09T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-10-09</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;过去 24 小时（Asia/Singapore：2026-10-08 09:00 至 2026-10-09 09:00）未核验到足够可信、可归因于本窗口的重大 GEO 产品或平台变动。今日以“信息有限、避免误报”为主要结论。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今日结论&lt;/h2&gt;
+&lt;h3 id=&quot;1-google-ai-overview-ai-mode&quot;&gt;1. 暂无可确认的 Google AI Overview / AI Mode 新动态&lt;/h3&gt;
+&lt;p&gt;本轮检索结果未提供过去 24 小时内可核验的 Google 官方公告，不能把泛化的 Google 搜索页面或旧资料写成当日更新。&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://www.google.com/&quot;&gt;https://www.google.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2-chatgpt-perplexity&quot;&gt;2. 暂无可确认的 ChatGPT 搜索、Perplexity 或引用机制新公告&lt;/h3&gt;
+&lt;p&gt;检索到 OpenAI 官方主页，但未获得与本窗口直接对应的产品公告正文；因此不对引用排序、检索覆盖或流量变化作事实判断。&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://openai.com/&quot;&gt;https://openai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3-gemini-geo&quot;&gt;3. Gemini 相关结果不足以形成当日 GEO 事件&lt;/h3&gt;
+&lt;p&gt;检索结果仅确认 Gemini 产品入口，未提供过去 24 小时内可核验的排名、引用或搜索产品变化。建议继续观察官方公告与开发者文档，而非据此推断可见度变化。&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://gemini.google.com/&quot;&gt;https://gemini.google.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;4-geo&quot;&gt;4. GEO 方法论与测量&lt;/h3&gt;
+&lt;p&gt;今日没有取得新的高可信测量框架、案例研究或独立实验结果。执行层面仍应把“被模型提及”“被引用”“答案中的位置”和“带来的合格访问/转化”分开记录，避免把单一可见度指标当作业务结果。&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://openai.com/&quot;&gt;https://openai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未发现高可信新增融资/上市动态。针对 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI、Writesonic 及相关 AI 搜索可见度工具，本轮结果未出现可核验的公司公告、监管文件、投资机构公告或高可信媒体报道。该结论是“未检索到确认信息”，不是对公司未发生事件的绝对证明。&lt;/p&gt;
+&lt;p&gt;资本信号判断：当前不能据不足的搜索摘要推断融资、估值、并购或 IPO。下一步优先核验公司公告、投资方公告、SEC/交易所文件，以及 Reuters、Bloomberg、TechCrunch、VentureBeat 等报道。&lt;/p&gt;
+&lt;h2 id=&quot;_2&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;观察 Google、OpenAI、Perplexity 官方产品更新，重点记录是否出现可引用来源展示、检索范围或答案归因机制变化。&lt;/li&gt;
+&lt;li&gt;对 GEO 监测工具建立“公告—融资—产品上线—客户案例”四类证据表，避免把营销页面或搜索摘要当成融资事实。&lt;/li&gt;
+&lt;li&gt;若业务有基线数据，抽样记录品牌在不同模型答案中的出现率、引用率、引用页面和转化，不要只看排名截图。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_3&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;检索窗口：2026-10-08 09:00 至 2026-10-09 09:00，Asia/Singapore。&lt;/li&gt;
+&lt;li&gt;搜索后端：默认 &lt;code&gt;web_search&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;Fallback：未发现可用的 Tavily 或其他补充搜索工具；未使用模型记忆替代实时来源。&lt;/li&gt;
+&lt;li&gt;失败与限制：搜索返回结果明显噪声较多、与 GEO 主题不匹配，且缺少可提取的当日官方公告正文；因此停止继续扩大查询，避免搜索循环和误报。&lt;/li&gt;
+&lt;li&gt;来源数量：3 个实际搜索结果 URL 被保留为背景入口；本日报没有将其当作当日具体事件证据。&lt;/li&gt;
+&lt;li&gt;交叉验证：不足。没有一条当日动态同时获得公司/平台官方来源与独立高可信媒体的交叉验证。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-10-08</title>
+    <link href="https://daily.localgpt.net/2026-10-08-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-10-08-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-10-08-geo-daily/</id>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-10-08</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;结论先行：今日 GEO 无重大新增，附昨日趋势延续。过去 24 小时可核验的一线信息有限，但 OpenAI 官方页面显示 10 月 7 日发布了 GPT-6 与 Intelligent UI；Google 搜索首页仍直接展示 AI Mode。两者都值得纳入可见度监测，但尚不足以据此断言引用机制已经发生变化。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今日要闻&lt;/h2&gt;
+&lt;h3 id=&quot;1-openai-gpt-6-intelligent-uiai&quot;&gt;1. OpenAI 发布 GPT-6 与 Intelligent UI，AI 入口继续向任务型交互演进&lt;/h3&gt;
+&lt;p&gt;OpenAI 官方首页列出 2026 年 10 月 7 日的“GPT-6 and Intelligent UI for everyone”产品公告。对 GEO 的直接含义是：品牌内容不应只优化传统问答中的单段引用，还要准备被模型用于多步骤任务、界面化操作和后续决策。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;应继续记录品牌在 ChatGPT 结果中的出现、引用位置、任务完成率和转化路径，而不只看回答里是否提到品牌。&lt;/li&gt;
+&lt;li&gt;当前页面未提供足够细节证明新的引用排序规则，结论保持为“产品入口变化”，不是“算法变化”。&lt;/li&gt;
+&lt;li&gt;来源：&lt;a href=&quot;https://openai.com/index/gpt-6-for-everyone/&quot;&gt;OpenAI 官方产品公告&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-google-ai-mode-ai&quot;&gt;2. Google 首页仍将 AI Mode 作为显著入口，AI 搜索可见度监测应覆盖多轮任务&lt;/h3&gt;
+&lt;p&gt;抓取到的 Google 官方首页显示 AI Mode 与传统搜索并列为主要交互入口。此为当前产品状态信号，不是过去 24 小时内确认的新公告；它提示企业应把 GEO 监测从单次关键词排名扩展到问题改写、连续追问、来源替换和最终行动。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;建议建立同一问题在普通结果、AI Mode 与不同地区/账号环境下的答案快照。&lt;/li&gt;
+&lt;li&gt;目前没有从官方页面核验到新的公开引用指标或排名说明，不能推断流量或引用份额已改变。&lt;/li&gt;
+&lt;li&gt;来源：&lt;a href=&quot;https://www.google.com/&quot;&gt;Google 官方首页&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;3-ai&quot;&gt;3. 内容真实性与可验证性仍是 AI 答案的基础设施议题&lt;/h3&gt;
+&lt;p&gt;一篇 2026 年 8 月的行业文章转述 Google 关于 SynthID、内容凭证和 AI Mode 的进展。它不是本窗口内的新消息，也不是 Google 一手公告，因此只作为趋势续报，不作为今日新增事实。对 GEO 实务的启示是：可追溯作者、原始数据、更新时间和内容凭证，可能比单纯堆叠关键词更有利于被答案引擎信任。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;该来源同时强调检测到水印与未检测到水印的证据强度不同，不能把“无水印”当作“真人内容”。&lt;/li&gt;
+&lt;li&gt;关键主张应回到 Google 官方材料核验；本文仅作观察参考。&lt;/li&gt;
+&lt;li&gt;来源：&lt;a href=&quot;https://www.ud.hk/zh-Hans/blogs/insight/article/what-is-synthid-2026-08-19&quot;&gt;UD Blockchain 趋势文章&lt;/a&gt;；文中引用的 Google 说明：&lt;a href=&quot;https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/&quot;&gt;Making it easier to understand how content was created and edited&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未发现高可信新增融资/上市动态。已围绕 GEO、AI search visibility、answer engine optimization、LLM visibility、AI SEO analytics 及 Profound、Peec AI、Scrunch AI、Otterly.AI 等公司检索；返回结果高度噪声化或缺乏可核验的一手融资文件，未形成可发布的融资、并购、IPO、估值或投资人观点结论。&lt;/p&gt;
+&lt;p&gt;可信度判断：无新增结论为“信息不足后的保守判断”，不是证明市场没有交易。今日值得跟踪的商业化趋势是：随着 GPT-6/Intelligent UI 与 Google AI Mode 入口并存，GEO 工具可能从“提及率/引用率报表”转向“任务完成、来源稳定性与可验证内容资产”测量。&lt;/p&gt;
+&lt;h2 id=&quot;_2&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;跟踪 OpenAI GPT-6 公告后续细节，重点看任务型界面是否改变品牌被调用、引用或推荐的路径。&lt;/li&gt;
+&lt;li&gt;对核心商业问题建立 Google AI Mode 与 ChatGPT 的多轮答案基线，记录来源变化而非只记录排名。&lt;/li&gt;
+&lt;li&gt;继续观察 Profound、Peec AI、Scrunch AI 等公司的融资或产品公告；在出现公司公告、投资机构公告或监管文件前，不把行业传闻纳入日报。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_3&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;检索窗口：Asia/Singapore 2026-10-07 09:00 至 2026-10-08 09:00；日报日期为 2026-10-08。&lt;/li&gt;
+&lt;li&gt;搜索后端：默认 web_search；页面核验使用 web_extract。未发现可用的独立补充搜索后端，因此未进行 fallback。&lt;/li&gt;
+&lt;li&gt;失败与限制：默认搜索结果多次返回无关内容、旧资料或重复结果；未继续重复相同查询。部分结果无法作为一手来源，已降级为趋势参考或剔除。&lt;/li&gt;
+&lt;li&gt;来源数量：详细版实际引用 4 个 URL，其中 OpenAI、Google 为官方页面；UD Blockchain 为二手趋势材料；其引用的 Google 官方说明作为待核验延伸链接。&lt;/li&gt;
+&lt;li&gt;交叉验证：GPT-6/Intelligent UI 由 OpenAI 官方页面确认；Google AI Mode 由 Google 首页确认产品入口存在，但未确认本窗口内新增；融资/上市结论缺少高可信交叉来源，因此不作新增报道。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-10-07</title>
+    <link href="https://daily.localgpt.net/2026-10-07-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-10-07-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-10-07-geo-daily/</id>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-10-07</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;结论：今日 GEO 无重大新增，附昨日趋势延续。过去 24 小时内未获得足够可靠的一手材料确认 Google AI Overview/AI Mode、ChatGPT 搜索、Perplexity、Claude、Gemini 或 Bing/Copilot 的重大产品变更。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今日重点&lt;/h2&gt;
+&lt;h3 id=&quot;1&quot;&gt;1. 实时检索未确认新的平台级变化&lt;/h3&gt;
+&lt;p&gt;本日检索结果出现明显噪声、泛化页面和与查询主题不匹配的结果，无法据此确认引用机制、展示范围或排名信号发生变化。产品判断暂不应建立在搜索摘要上，需等待可直接核验的官方公告或高可信媒体报道。&lt;/p&gt;
+&lt;p&gt;来源：OpenAI 官方主页（仅作官方入口，未确认今日变更）：https://openai.com/&lt;/p&gt;
+&lt;h3 id=&quot;2-geo&quot;&gt;2. GEO 执行建议：继续把“可引用性”作为核心指标&lt;/h3&gt;
+&lt;p&gt;在缺乏新公告的情况下，延续既有方向：维护清晰的实体、作者、证据和更新时间信号；将品牌在 AI 答案中的出现率、被引用页面、引用上下文和竞品份额分开记录，避免把传统自然搜索排名当作 GEO 成效的替代指标。&lt;/p&gt;
+&lt;p&gt;来源：Google 官方入口（本次结果未提供可核验的当日公告）：https://www.google.com/&lt;/p&gt;
+&lt;h3 id=&quot;3-geo&quot;&gt;3. 今日 GEO 无重大新增，附昨日趋势延续&lt;/h3&gt;
+&lt;p&gt;当前更值得关注的是测量框架和商业化，而不是追逐未经核验的“算法更新”：企业需要能复现的提示集、跨模型采样、引用质量评分及品牌实体覆盖度，才能判断内容优化是否真的影响答案层曝光。&lt;/p&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未发现高可信新增融资/上市动态。对 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI、Writesonic、BrightEdge、Semrush、Ahrefs、Similarweb、Yext、Conductor、Botify 等方向，本轮未取得可交叉验证的融资、并购、IPO/上市、估值或投资人新信息，不能把旧闻写成今日动态。可信度判断：无新增结论为“信息不足”，不是“确认没有任何市场活动”。&lt;/p&gt;
+&lt;h2 id=&quot;_2&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;观察 Google、OpenAI 及主要答案引擎的官方更新，优先确认引用展示、检索范围和站点控制变化。&lt;/li&gt;
+&lt;li&gt;建立跨模型 GEO 基线：同一提示集记录品牌出现率、引用率、来源域名和答案倾向。&lt;/li&gt;
+&lt;li&gt;关注 GEO 监测公司的商业化信号，尤其是可审计的 AI 搜索可见度数据是否成为企业预算科目。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_3&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;检索窗口：Asia/Singapore 2026-10-06 09:00:51 至 2026-10-07 09:00:51（过去 24 小时）。&lt;/li&gt;
+&lt;li&gt;搜索后端：默认 &lt;code&gt;web_search&lt;/code&gt;；未发现可用的 Tavily 补充搜索工具，因此未完成有效 fallback。&lt;/li&gt;
+&lt;li&gt;失败与限制：默认搜索返回大量不相关中文页面、泛化主页和重复结果；多次英文定向查询仍未形成可核验的当天新闻。按规则停止继续搜索，避免搜索循环。&lt;/li&gt;
+&lt;li&gt;来源数量：2 个可访问的官方入口 URL 被保留作核验入口；0 个来源足以确认过去 24 小时 GEO 新闻。&lt;/li&gt;
+&lt;li&gt;交叉验证：不足；本日报不把搜索摘要或历史资料当作当日事实。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-10-06</title>
+    <link href="https://daily.localgpt.net/2026-10-06-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-10-06-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-10-06-geo-daily/</id>
+    <updated>2026-10-06T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-10-06</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;检索窗口：Asia/Singapore 2026-10-05 00:00 至 2026-10-06 00:00（过去 24 小时）。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今日摘要&lt;/h2&gt;
+&lt;p&gt;今日 GEO 无重大新增，附趋势延续。过去 24 小时的检索结果未提供足够可靠、可交叉验证的产品发布、引用机制变化或行业数据，不能把搜索结果中的旧资料或泛化页面写成当天新闻。当前更适合把重点放在持续监测 AI 搜索答案中的品牌出现率、引用来源结构和可验证实体信息。&lt;/p&gt;
+&lt;h2 id=&quot;_2&quot;&gt;主要动态&lt;/h2&gt;
+&lt;h3 id=&quot;1-google-ai-overview-ai-mode&quot;&gt;1. 未确认 Google AI Overview / AI Mode 在窗口内有新变化&lt;/h3&gt;
+&lt;p&gt;没有检索到可核验的官方产品公告或高可信媒体报道，因此不对展示范围、引用机制或排名变化作事实判断。官方入口可作为后续监测起点：&lt;a href=&quot;https://www.google.com/&quot;&gt;https://www.google.com/&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&quot;2-chatgpt&quot;&gt;2. 未确认 ChatGPT 搜索与引用机制在窗口内有新公告&lt;/h3&gt;
+&lt;p&gt;OpenAI 官方站点是可访问的一手入口，但本次检索未定位到过去 24 小时内与 ChatGPT Search 直接相关的公告。不要用模型能力变化推断网页可见度变化：&lt;a href=&quot;https://openai.com/&quot;&gt;https://openai.com/&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&quot;3-perplexity&quot;&gt;3. Perplexity 仍是值得持续观测的答案引擎样本&lt;/h3&gt;
+&lt;p&gt;检索结果显示其官方站点仍定位为提供实时答案的 AI 搜索产品，但没有足够证据证明过去 24 小时发生了引用、抓取或商业产品变化。后续应记录同一组问题的来源域名、品牌被提及位置与答案稳定性：&lt;a href=&quot;https://www.perplexity.ai/&quot;&gt;https://www.perplexity.ai/&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未发现高可信新增融资/上市动态。未发现可由公司公告、投资机构、监管文件或高可信财经媒体交叉确认的 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI 等相关融资、并购、IPO、估值或重大投资人观点。结论可信度：中低——搜索后端结果噪声较高，不能据此证明市场绝对没有交易。值得跟踪的趋势是：GEO 商业化仍需从“排名报告”转向可审计的品牌提及、引用质量、转化归因和跨答案引擎监测。&lt;/p&gt;
+&lt;h2 id=&quot;_3&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;对 Google、ChatGPT、Perplexity 各建立一组固定商业问题，保存答案、引用 URL 和品牌位置，避免只看单次排名。&lt;/li&gt;
+&lt;li&gt;关注 GEO 工具是否能提供可复现的引用证据、历史版本和转化关联；这比单纯的“可见度分数”更接近采购价值。&lt;/li&gt;
+&lt;li&gt;继续观察 Profound、Peec AI、Otterly.AI 等公司是否出现官方融资或产品公告，在确认前不引用二手传闻。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_4&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;检索窗口：Asia/Singapore 2026-10-05 00:00—2026-10-06 00:00。&lt;/li&gt;
+&lt;li&gt;实际后端：默认 &lt;code&gt;web_search&lt;/code&gt;；未使用额外搜索后端。未调用 web_extract，因为搜索结果没有形成足够可靠的候选页面集合。&lt;/li&gt;
+&lt;li&gt;失败与限制：多次英文定向检索返回结果高度噪声化、重复或与 GEO 无关；出现旧页面和泛入口，未发现可核验的当日一手动态。按规则停止重复搜索，未把噪声结果作为事实来源。&lt;/li&gt;
+&lt;li&gt;来源数量：3 个可作为背景入口的实际搜索 URL（Google、OpenAI、Perplexity）；0 个过去 24 小时内确认的新闻事件来源。&lt;/li&gt;
+&lt;li&gt;交叉验证：不足。本文仅报告“未确认”，不把单一入口或旧资料写成当天产品变化。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-10-03</title>
+    <link href="https://daily.localgpt.net/2026-10-03-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-10-03-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-10-03-geo-daily/</id>
+    <updated>2026-10-03T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-10-03</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;统计口径：Asia/Singapore 2026-10-02 09:01 至 2026-10-03 09:01。今日未能从可核验实时结果中确认新的 GEO 重大动态；以下不把旧资料或搜索噪声当作新闻。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今日结论&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未确认 Google AI Overview / AI Mode、ChatGPT 搜索与引用、Perplexity、Claude、Gemini、Bing/Copilot 或 GEO 测量框架的重大产品变化。检索结果明显偏离主题，且大量结果为旧页面、泛 AI 导航或与生成引擎优化无关的 GEO（基因表达数据库）内容，因此不作事实性新闻摘录。&lt;/p&gt;
+&lt;h2 id=&quot;_2&quot;&gt;主要观察&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;今日 GEO 无重大新增，附趋势延续。&lt;/strong&gt; 当前可确认的结论不是“市场没有变化”，而是本窗口内没有足够可靠的实时来源支撑新的断言。官方入口可作为后续人工核验起点：Google（https://www.google.com/）与 OpenAI（https://openai.com/）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;检索噪声仍是实时 GEO 监测的主要风险。&lt;/strong&gt; “GEO”在搜索中大量命中 NCBI 基因表达数据库及中文 AI 工具导航，说明监测系统需要加入 AI search、AI Overview、answer engine optimization、LLM visibility 等联合限定词，并优先站内检索官方公告。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;方法论提醒：不要用旧趋势填充日报。&lt;/strong&gt; 在未取得可提取的一手公告、公司新闻稿或高可信媒体报道前，不应把历史上的引用机制、流量变化或平台测试写成过去 24 小时动态。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未发现高可信新增融资/上市动态。对 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI、Writesonic、BrightEdge、Semrush、Ahrefs、Similarweb、Yext、Conductor、Botify 等方向的检索没有返回可核验的当日融资、并购、IPO、招股书、估值或投资人事件；现有结果不足以支持任何资本市场判断。后续应优先核对公司公告、投资机构公告、SEC/交易所文件及 Reuters、Bloomberg、TechCrunch 等报道。&lt;/p&gt;
+&lt;h2 id=&quot;_3&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;以 Google Search 官方博客、OpenAI 新闻页和各平台产品更新页为一手监测源，补做带日期筛选的人工核验。&lt;/li&gt;
+&lt;li&gt;关注 GEO 监测产品能否从“品牌是否被提及”升级到“答案引用质量、来源份额、提示词覆盖和转化归因”。&lt;/li&gt;
+&lt;li&gt;资本侧继续观察 AI search analytics 与 LLM visibility 工具的融资整合趋势；今日没有可确认的新交易。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;_4&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;检索窗口：&lt;/strong&gt; Asia/Singapore 2026-10-02 09:01—2026-10-03 09:01。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;实际后端：&lt;/strong&gt; 默认 &lt;code&gt;web_search&lt;/code&gt;；未发现可用的本地 SearXNG 或补充搜索后端入口，未使用 terminal/curl/browser 搜索。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fallback：&lt;/strong&gt; 默认搜索结果严重偏题后，改用英文站内限定查询与公司/媒体限定查询；仍未获得足够可靠的实时结果。未继续循环搜索。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;失败与限制：&lt;/strong&gt; 结果高度噪声化、主题错配、包含明显旧页面；没有可提取并核验的当日官方公告或高可信新闻页面。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源数量：&lt;/strong&gt; 可访问搜索结果中的相关官方入口 2 个（Google、OpenAI）；有效支撑今日新闻的来源 0 个。因无已确认事件，未把入口页当作事件证据。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;交叉验证：&lt;/strong&gt; 不适用；没有任何一条新事件同时获得两个独立高可信来源确认。本文明确标注信息有限，不以模型记忆补足事实。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-10-02</title>
+    <link href="https://daily.localgpt.net/2026-10-02-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-10-02-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-10-02-geo-daily/</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-10-02</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;窗口结论&lt;/strong&gt;：按 Asia/Singapore 计，检索窗口为 2026-10-01 09:01 至 2026-10-02 09:01。当前可核验来源中，未确认过去 24 小时内有足够高可信度的 GEO、AI 搜索产品重大变更或行业资本事件；今日 GEO 无重大新增，以下为已核验的趋势续报。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;重点动态&lt;/h2&gt;
+&lt;h3 id=&quot;1-24-googleopenaiperplexity-geo&quot;&gt;1. 过去 24 小时未确认 Google/OpenAI/Perplexity 的 GEO 相关重大更新&lt;/h3&gt;
+&lt;p&gt;OpenAI 的官方 Newsroom 页面当前展示的近期条目主要落在 2026-09-28、2026-09-23 及更早日期，未提供 10 月 1—2 日的可核验时间戳。Google 与 Perplexity 官方页面同样未在本次窗口内给出新的、直接涉及 AI 搜索可见度或引用机制的公告。结论强度为“未确认”，不等同于绝对没有发布。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/news/company-announcements/&quot;&gt;https://openai.com/news/company-announcements/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ai.google/&quot;&gt;https://ai.google/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub&quot;&gt;https://www.perplexity.ai/hub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2&quot;&gt;2. 引用仍是答案引擎的核心产品承诺（历史续报）&lt;/h3&gt;
+&lt;p&gt;Perplexity 官方产品页继续将“由引用支撑的准确回答”“web-first agentic AI”和可供开发者使用的搜索 grounding 作为核心卖点。这对 GEO 的直接含义是：品牌可见度不能只看传统排名，还应记录回答是否引用品牌页面、引用位置、引用上下文及后续转化。该页面没有过去 24 小时的发布时间，不能冒充当日新闻。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub&quot;&gt;https://www.perplexity.ai/hub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;3-ai&quot;&gt;3. AI 产品竞争继续向“回答+代理执行”收敛（历史续报）&lt;/h3&gt;
+&lt;p&gt;OpenAI 的 DevDay 2026 recap 称其发布了覆盖 ChatGPT、Codex、模型和新工作方式的 20 多项更新，并强调可持续承担任务的 agents；Google 的 Gemini 官方页面则持续展示 Live、Extended Thinking、视频与工具调用等能力。它们共同指向 GEO 的下一阶段：内容不仅要被答案引用，还要能被模型理解、调用并嵌入任务流程。相关页面发布时间分别为 2026-09-15、2026-09-23 或更早，属于背景趋势。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/index/devday-2026-recap/&quot;&gt;https://openai.com/index/devday-2026-recap/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/&quot;&gt;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/&quot;&gt;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;4-geo&quot;&gt;4. GEO 新兴公司融资与上市信号暂未形成可确认新增&lt;/h3&gt;
+&lt;p&gt;在本次可成功提取并核验的来源集合中，未发现 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI 或同类 AI Search/GEO 公司于过去 24 小时披露的高可信融资、并购、IPO/上市、估值变化或投资人新观点。由于实时搜索结果相关性异常且缺少可用的补充搜索后端，不能排除未被抓取的私有交易或地区性披露。&lt;/p&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;结论：过去 24 小时未发现高可信新增融资/上市动态。&lt;/strong&gt;本次未将搜索噪声或无日期的公司营销页面当作融资证据，也未使用模型记忆补齐交易信息。下一步应优先核验公司公告、投资机构公告、SEC/交易所文件，以及 Reuters、TechCrunch、VentureBeat、BusinessWire/PRNewswire 等一手或高可信报道。值得跟踪的趋势是：GEO 公司的商业化叙事正从“内容优化工具”转向“AI 回答引用监测、品牌实体管理、代理工作流接入和可归因收入”，但本日没有新的可确认交易支持该判断。&lt;/p&gt;
+&lt;p&gt;参考核验页面：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OpenAI Newsroom：&lt;a href=&quot;https://openai.com/news/company-announcements/（官方，未发现本窗口内资本事件）&quot;&gt;https://openai.com/news/company-announcements/（官方，未发现本窗口内资本事件）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Perplexity 产品页：&lt;a href=&quot;https://www.perplexity.ai/hub（官方产品定位，不是融资证据）&quot;&gt;https://www.perplexity.ai/hub（官方产品定位，不是融资证据）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google AI 主页：&lt;a href=&quot;https://ai.google/（官方产品入口，不是融资证据）&quot;&gt;https://ai.google/（官方产品入口，不是融资证据）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;_2&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;继续观察 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI 等公司是否出现公司公告、投资人公告或监管文件；在缺少一手文件前，不采信单一媒体转述。&lt;/li&gt;
+&lt;li&gt;建立“被引用率—引用位置—回答任务完成率—品牌/产品转化”的连续监测，而非只看传统 SEO 排名。&lt;/li&gt;
+&lt;li&gt;跟踪 Google、OpenAI、Perplexity 是否把搜索结果进一步连接到代理执行、购物、研究或企业工作流；这将决定 GEO 指标是否从曝光转向任务归因。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_3&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;检索窗口&lt;/strong&gt;：2026-10-01 09:01—2026-10-02 09:01（Asia/Singapore）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;实际后端&lt;/strong&gt;：使用可调用的默认 &lt;code&gt;web_search&lt;/code&gt;；随后使用 &lt;code&gt;web_extract&lt;/code&gt; 核验已获得的官方页面。当前会话未暴露可调用的 SearXNG-local 或 Tavily 接口，因此没有可用的外部搜索 fallback。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;失败与限制&lt;/strong&gt;：&lt;code&gt;web_search&lt;/code&gt; 返回结果出现明显的相关性异常、中文噪声、重复首页和过旧结果；未将这些结果作为事实来源，也未重复陷入同一查询。部分官方产品页是动态主页或历史公告，不能证明过去 24 小时发生了更新。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源数量&lt;/strong&gt;：9 个成功提取并可阅读的官方页面，来自 3 个独立域名（OpenAI、Google、Perplexity）；本稿实际引用的主要来源均为官方页面。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;交叉验证&lt;/strong&gt;：产品趋势由 OpenAI、Google、Perplexity 三方页面交叉观察；过去 24 小时“无新增”属于受检索覆盖限制的谨慎判断，不是全网穷尽证明。资本市场部分没有找到足够的独立一手来源，因此明确标记为“未发现高可信新增”，不下绝对结论。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-10-01</title>
+    <link href="https://daily.localgpt.net/2026-10-01-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-10-01-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-10-01-geo-daily/</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-10-01</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;检索窗口：&lt;/strong&gt; Asia/Singapore 2026-09-30 09:00:34 至 2026-10-01 09:00:34（过去 24 小时）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;今日判断：&lt;/strong&gt; 今日 GEO 无重大新增，附昨日趋势延续。当前可核验实时结果噪声偏高，以下只写入能够落到已访问官方页面的结论；没有把模型记忆或低相关搜索结果当作当日新闻。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今日摘要&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未确认 Google AI Overview / AI Mode、ChatGPT 搜索与引用机制、Perplexity 引用机制或 GEO 工具链出现高可信的重大公告。Perplexity 官方页面仍把“带来源的答案、Deep Research、从答案走向代理执行”作为产品主线，但页面显示的博客最新可见条目为 2026-09-09，属于趋势延续而非本窗口新讯。OpenAI 官方新闻页可见的带日期条目到 2026-09-28，未见 2026-09-30 至 2026-10-01 的搜索/引用专项发布。&lt;/p&gt;
+&lt;h2 id=&quot;_2&quot;&gt;重点动态&lt;/h2&gt;
+&lt;h3 id=&quot;1-google-ai-overview-ai-mode&quot;&gt;1. Google AI Overview / AI Mode：本窗口未确认新发布&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;结论：&lt;/strong&gt; 没有足够可靠的一手公告证明过去 24 小时出现新的 AI Overview、AI Mode、引用展示或排名规则变化；今天不建议因传闻调整 GEO 方案。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;当前可核验页面仅能确认 Google Search 入口，未提供本窗口内的产品公告正文。&lt;/li&gt;
+&lt;li&gt;这是一条“未发现”结论，不等于 Google 内部没有灰度实验；需等待官方公告或可复核的产品变化。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://www.google.com/&quot;&gt;https://www.google.com/&lt;/a&gt;（官方入口，非当日公告；可信度：低—中）&lt;/p&gt;
+&lt;h3 id=&quot;2-chatgpt-24&quot;&gt;2. ChatGPT 搜索与引用：未见过去 24 小时专项更新&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;结论：&lt;/strong&gt; OpenAI 新闻页没有显示 2026-09-30 至 2026-10-01 的 ChatGPT Search / citations 专项更新，暂不应把普通模型或产品新闻解读为 GEO 机制变化。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OpenAI 新闻页近期可见条目包括 2026-09-28 的公司动态，未出现本窗口内的搜索可见度、引用排序或站点收录公告。&lt;/li&gt;
+&lt;li&gt;官方 RSS 页面与新闻页的时间范围不完全一致，因此只作辅助核验，不据此推断“绝对没有发布”。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://openai.com/news/company-announcements/&quot;&gt;https://openai.com/news/company-announcements/&lt;/a&gt;；&lt;a href=&quot;https://openai.com/news/rss.xml&quot;&gt;https://openai.com/news/rss.xml&lt;/a&gt;（官方一手页；可信度：中）&lt;/p&gt;
+&lt;h3 id=&quot;3-perplexity&quot;&gt;3. Perplexity：引用与来源透明度仍是结构性方向&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;结论：&lt;/strong&gt; Perplexity 官方产品说明继续强调“答案取代传统结果页”、Deep Research 的多来源回答，以及用户检查答案来源的流程；这是可供 GEO 测量设计参考的趋势续报，不是过去 24 小时新讯。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;官方页面展示了来源高亮、来源数量与 Research 工作流，说明“被引用”仍应与“被回答、被验证”一起衡量。&lt;/li&gt;
+&lt;li&gt;官方博客最新可见条目为 2026-09-09 的 Q2D-Web 检索评测，未见本窗口内的新 GEO 产品公告。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://www.perplexity.ai/hub/getting-started&quot;&gt;https://www.perplexity.ai/hub/getting-started&lt;/a&gt;；&lt;a href=&quot;https://www.perplexity.ai/hub/blog&quot;&gt;https://www.perplexity.ai/hub/blog&lt;/a&gt;（官方一手页；可信度：中—高，时效性为趋势续报）&lt;/p&gt;
+&lt;h3 id=&quot;4-ai&quot;&gt;4. AI 搜索可见度的测量重点：继续从排名转向“答案中的可验证出现”&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;结论：&lt;/strong&gt; 今日没有新的测量框架发布，但现有官方产品叙事已足以支持一个稳健的监测方向：记录品牌是否被检索、是否被引用、引用是否准确、是否进入后续行动，而不是只看传统 SERP 排名。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;对同一问题同时记录答案出现率、引用域名、引用位置、事实准确度和转化路径。&lt;/li&gt;
+&lt;li&gt;将“答案来源透明度”纳入 GEO 质检，避免把一次被模型提及误判为稳定可见度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://www.perplexity.ai/hub/getting-started&quot;&gt;https://www.perplexity.ai/hub/getting-started&lt;/a&gt;；&lt;a href=&quot;https://openai.com/news/company-announcements/&quot;&gt;https://openai.com/news/company-announcements/&lt;/a&gt;（产品一手页的趋势归纳；可信度：中，非新公告）&lt;/p&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;过去 24 小时未发现高可信新增融资/上市动态。&lt;/strong&gt; 本窗口也未确认 GEO / AI Search / Answer Engine Optimization 相关公司的并购、IPO、招股书、估值更新或投资人正式观点。Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI、Writesonic，以及 BrightEdge、Semrush、Ahrefs、Similarweb、Yext、Conductor、Botify 等仍值得持续跟踪，但今天没有足够高质量的一手披露可写入新闻。&lt;/p&gt;
+&lt;p&gt;搜索结果中的低相关页面、重复结果和泛 AI 工具目录不能作为融资证据；因此本节结论应理解为“未发现可核验新增”，不是对所有私募交易的绝对否定。可继续以官方产品/新闻页作为行业节奏的辅助观察入口：&lt;a href=&quot;https://www.perplexity.ai/hub/blog&quot;&gt;https://www.perplexity.ai/hub/blog&lt;/a&gt;、&lt;a href=&quot;https://openai.com/news/company-announcements/&quot;&gt;https://openai.com/news/company-announcements/&lt;/a&gt;。资本结论可信度：低—中，交叉验证不足。&lt;/p&gt;
+&lt;h2 id=&quot;_3&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;继续盯 Google 的 AI Overview / AI Mode 官方产品公告；若出现引用样式或结果页变化，优先做同问题、同地区、同时间的基线复测。&lt;/li&gt;
+&lt;li&gt;把 Perplexity 的来源高亮与 Deep Research 逻辑转化为 GEO 看板字段：引用率、来源质量、事实一致性、后续行动率。&lt;/li&gt;
+&lt;li&gt;对 GEO 新兴公司融资与上市保持“主张—一手披露—独立交叉验证”三步门槛，暂不因低相关结果补写资本新闻。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_4&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;检索窗口：&lt;/strong&gt; Asia/Singapore 2026-09-30 09:00:34—2026-10-01 09:00:34。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;搜索后端与 fallback：&lt;/strong&gt; 使用默认 web_search 做英文优先检索，共 10 次查询；返回结果出现明显噪声、重复、过旧和与 GEO 无关的内容。未发现可用的 SearXNG-local 或 Tavily 补充后端；因此没有继续重复查询，也没有用模型记忆填补事实。随后仅对已出现在搜索/页面链接中的官方 URL 做有限提取核验。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;提取情况：&lt;/strong&gt; 共请求 9 个 URL，8 个成功返回、1 个帮助中心 URL 抓取失败；其中约 6 个官方页面含有可用于本报的正文或日期信息。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源数量与交叉验证：&lt;/strong&gt; 本报使用 Google、OpenAI、Perplexity 三个官方域名的页面；没有拿到独立媒体、资本数据库或 GEO 初创公司一手融资披露的可核验结果，产品动态与资本动态的交叉验证均不足，已降低结论强度。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主要失败类型：&lt;/strong&gt; 搜索相关性异常、重复/过旧结果、泛首页替代公告页、动态页面提取失败。所有失败或空内容 URL 均未作为有效事实来源引用；未记录任何密钥或隐私信息。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-09-30</title>
+    <link href="https://daily.localgpt.net/2026-09-30-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-09-30-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-09-30-geo-daily/</id>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-09-30</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;检索窗口：2026-09-29 09:00:32—2026-09-30 09:00:32（Asia/Singapore）。结论：今日 GEO 无重大新增，附趋势续报。搜索结果噪声较大，因此没有把窗口外资料写成过去 24 小时新闻。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今日要点&lt;/h2&gt;
+&lt;h3 id=&quot;1-24-ai-geo&quot;&gt;1. 过去 24 小时未确认到重大 AI 搜索/GEO 产品公告&lt;/h3&gt;
+&lt;p&gt;检查 Google Search、OpenAI、Perplexity、Anthropic 与 Microsoft 的官方新闻入口，未见能够在本窗口内核验、且直接涉及 AI search、AI citation、GEO 或 answer-engine visibility 的重大新公告。该条是基于官方页面的检索结论，不代表平台承诺没有任何灰度实验或地区性更新。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/products/search/&quot;&gt;Google Search 官方更新&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/news/&quot;&gt;OpenAI News&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog&quot;&gt;Perplexity Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.anthropic.com/news&quot;&gt;Anthropic Newsroom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-google-search-profiles&quot;&gt;2. Google Search profiles 续报：实体与出版者身份仍是可见度资产&lt;/h3&gt;
+&lt;p&gt;Google 9 月 16 日发布的历史更新支持多品牌账号管理、增强文章展示，并把更多美国出版者/创作者纳入资格范围，门槛降至在 YouTube、Instagram、X 或 TikTok 合计 10,000 名粉丝。它不是本窗口新消息，但说明 GEO 不能只优化页面文本，也要经营可验证的品牌、作者与内容实体。&lt;/p&gt;
+&lt;p&gt;来源（历史续报，单一官方来源）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/&quot;&gt;3 new ways we&amp;rsquo;re improving Search profiles for publishers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;3-perplexity-geo&quot;&gt;3. Perplexity 续报：检索器评估正在成为 GEO 测量基础设施&lt;/h3&gt;
+&lt;p&gt;Perplexity 9 月 9 日公布 Q2D-Web，覆盖 70,000 个 agent queries、1.9 亿网页文档及三组相关性判断。该基准不等同于品牌引用排名，但反映 AI 搜索的竞争正在从“是否被回答”扩展到首阶段检索、相关性与引用链路的可重复评估。&lt;/p&gt;
+&lt;p&gt;来源（历史续报，单一官方来源）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog/q2d-web&quot;&gt;Q2D-Web: Evaluating First-Stage Retrievers at Scale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;4-chatgpt&quot;&gt;4. ChatGPT 侧：已核验的近期发布条目并非搜索/引用机制变化&lt;/h3&gt;
+&lt;p&gt;OpenAI 发布说明中可见的近期条目包括 9 月 24 日的 External access controls、9 月 23 日的 Voice plugins，以及 9 月 22 日的 GPT-6 Sol/Luna 与 Flashcards；本次没有从发布说明中确认新的 Search/citation 规则。对 GEO 团队而言，继续用固定问题集记录引用来源、回答覆盖率和变化时间，比根据单次回答推断机制更稳妥。&lt;/p&gt;
+&lt;p&gt;来源（近期发布说明，非搜索功能）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/products/release-notes/&quot;&gt;OpenAI Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未发现高可信新增融资/上市动态。对 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI 及相关 AI SEO/搜索可见度公司，本次没有找到可同时由公司/投资方公告、监管文件或高可信财经媒体核验的融资、并购、IPO、招股书或估值变化；因此不引用旧融资或未核实传闻充数。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可信度判断：中低。结论是“未发现”，不是“确定没有”；原因是本次搜索后端结果噪声与重复明显，资本数据库和部分公司博客未形成可核验的窗口内事件来源。&lt;/li&gt;
+&lt;li&gt;值得跟踪的投资趋势：Perplexity 的检索器基准与 Google 的出版者实体能力共同指向“可测量的 AI 答案可见度”与“品牌/内容实体治理”两类基础设施，后续若有融资，更应关注其是否拥有跨模型、跨问题集的可复现数据，而不只是 SEO 文案生成。&lt;/li&gt;
+&lt;li&gt;参考：&lt;a href=&quot;https://www.perplexity.ai/hub/blog/q2d-web&quot;&gt;Q2D-Web&lt;/a&gt;；&lt;a href=&quot;https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/&quot;&gt;Google Search profiles 更新&lt;/a&gt;。两者均为历史续报，不是融资证据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;_2&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;用固定的品牌、产品和竞品问题集，分别记录 Google、ChatGPT、Perplexity 的引用域名、答案位置、提及语境与发布日期，建立可复测基线。&lt;/li&gt;
+&lt;li&gt;关注 Google Search profiles 的资格范围、文章展示和品牌实体变化是否进一步扩展到更多市场；这可能影响出版者内容被 AI/搜索系统理解的先验信号。&lt;/li&gt;
+&lt;li&gt;继续盯住 Profound、AthenaHQ、Peec AI、Otterly.AI 等公司的公司公告、投资方公告和监管/交易文件；只有出现主来源后再更新融资与上市判断。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_3&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;检索窗口：2026-09-29 09:00:32 至 2026-09-30 09:00:32，Asia/Singapore。&lt;/li&gt;
+&lt;li&gt;实际后端：默认 &lt;code&gt;web_search&lt;/code&gt; 共 10 次；随后使用 &lt;code&gt;web_extract&lt;/code&gt; 直接核验官方页面。未使用模型记忆替代来源，也未把模型本身当作事实来源。&lt;/li&gt;
+&lt;li&gt;fallback 与失败：默认搜索返回了明显不相关的中文页面、重复结果及窗口外条目；定向查询没有稳定返回目标官方公告。转而优先提取官方新闻/发布说明页面。一次 Microsoft 旧博客入口返回页面不存在，一次 Profound 博客抓取失败，均未作为有效来源引用。&lt;/li&gt;
+&lt;li&gt;来源数量：成功提取并可核验的官方页面 7 个，涉及 Google、OpenAI、Perplexity、Anthropic、Microsoft 5 个域名；本窗口内可确认的 GEO/AI-search 新事件为 0 个。&lt;/li&gt;
+&lt;li&gt;交叉验证：Google Search profiles 与 Perplexity Q2D-Web 各由单一官方来源支持，已明确标为历史续报；OpenAI 发布说明用于核对近期条目是否包含搜索/引用变化。由于没有形成窗口内的新事件，未强行拼接二手转述或旧新闻。&lt;/li&gt;
+&lt;li&gt;限制：搜索后端异常降低了对融资、上市和并购负面结论的覆盖度；“未发现”不等于“确定没有”。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-09-29</title>
+    <link href="https://daily.localgpt.net/2026-09-29-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-09-29-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-09-29-geo-daily/</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-09-29</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;检索窗口：Asia/Singapore 2026-09-28 09:01:16 至 2026-09-29 09:01:16（过去 24 小时）。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;摘要&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未从可靠、多源材料中确认 Google AI Overview/AI Mode、ChatGPT 搜索与引用、Perplexity、Claude、Gemini 或 Bing/Copilot 的重大 GEO 产品或引用机制更新。今日以已核验的官方功能观察、AI 内容生态信号和历史趋势续报为主；不把历史页面或单一来源转写成当日新发布。&lt;/p&gt;
+&lt;h2 id=&quot;24&quot;&gt;过去 24 小时重点动态&lt;/h2&gt;
+&lt;h3 id=&quot;1-google-ai-mode-ai-overviews-geo&quot;&gt;1. Google AI Mode / AI Overviews：分享链路值得纳入 GEO 监测&lt;/h3&gt;
+&lt;p&gt;Google Search 帮助页确认，AI Overviews 与 AI Mode 的回答可以生成可分享链接；AI Mode 入口为 &lt;code&gt;google.com/ai&lt;/code&gt;，分享功能要求开启搜索历史和个性化推荐。对 GEO 的直接启示是：回答的二次传播、来源链接可见度以及分享后的访问路径，应从“是否被引用”扩展为“回答—来源—分享—访问”的闭环测量。该帮助页没有给出过去 24 小时的发布日期，因此只能视为现行能力观察，不应当作当天产品发布。&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://support.google.com/websearch/answer/16517651&quot;&gt;https://support.google.com/websearch/answer/16517651&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2-chatgpt&quot;&gt;2. ChatGPT 搜索/引用：官方可见更新中未确认本窗口新增规则&lt;/h3&gt;
+&lt;p&gt;OpenAI 当前 Release Notes 页面可见的最新条目为 9 月 24 日的 ChatGPT Business/Enterprise 外部访问控制，9 月 23 日为 Voice 中使用插件；页面没有显示 9 月 28—29 日搜索入口、引用规则或来源展示的新条目。结论仅限于官方页面当前可见内容，不能据此断言所有灰度实验均未发生。&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://openai.com/products/release-notes/&quot;&gt;https://openai.com/products/release-notes/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3-ai-geo&quot;&gt;3. AI 内容生态出现一笔“非 GEO 厂商”支持&lt;/h3&gt;
+&lt;p&gt;9 月 28 日，Lenfest Institute 与 OpenAI 联合宣布扩大 AI Collaborative and Fellowship Program：OpenAI 新增 500 万美元承诺，并提供最高 500 万美元软件额度和工程支持，支持把 AI 工程师嵌入新闻机构。该项目覆盖受众运营、新闻产品、调查研究、广告和读者收入等场景。对 GEO 的间接意义在于，新闻机构的内容生产、档案检索和受众分发能力可能继续 AI 化，长期影响高信任内容的可发现性与可引用性；但这不是 GEO 创业公司的融资轮。&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://openai.com/index/lenfest-ai-collaborative-expansion/&quot;&gt;https://openai.com/index/lenfest-ai-collaborative-expansion/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;4&quot;&gt;4. 模型成本下探仍是搜索代理商业化背景（历史续报）&lt;/h3&gt;
+&lt;p&gt;OpenAI 9 月 22 日发布 GPT-6 Sol 与 GPT-6 Luna，并称 API 价格较 GPT-5.6 促销价下降 50%。这是历史资料，不属于本窗口新增；其对 GEO 的观察价值在于，若低成本代理进一步扩大检索、总结、内容评估和持续采样，GEO 监测将更需要覆盖多模型、多任务和不同成本档位，而不能只看单一答案截图。&lt;/p&gt;
+&lt;p&gt;来源：&lt;a href=&quot;https://openai.com/index/introducing-gpt-6-sol-and-luna/&quot;&gt;https://openai.com/index/introducing-gpt-6-sol-and-luna/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;过去 24 小时未发现高可信新增融资/上市动态。&lt;/strong&gt; 针对 GEO、AI Search、Answer Engine Optimization、LLM visibility、AI SEO、AI search analytics、brand visibility in AI answers 等方向，以及 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI、Writesonic、BrightEdge、Semrush、Ahrefs、Similarweb、Yext、Conductor、Botify 等公司，当前没有经可核验官方公告、交易所/监管文件或高可信商业媒体交叉确认的融资、并购、IPO/上市、估值变动或投资人新观点。Lenfest/OpenAI 的 500 万美元承诺属于新闻机构 AI 生态支持，不应归类为 GEO 厂商融资。&lt;/p&gt;
+&lt;p&gt;值得跟踪的趋势是：AI 搜索可见度工具的商业化，可能从“排名/提及监测”逐步延伸到内容供应链、新闻与品牌数据合作、来源可验证性和代理工作流基础设施。当前判断为趋势观察，非当日交易信号。&lt;/p&gt;
+&lt;h2 id=&quot;_2&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;将 Google AI Mode/AI Overviews 的分享链接、来源显示和后续访问纳入 GEO 采样，观察分享是否改变引用来源的长尾传播。&lt;/li&gt;
+&lt;li&gt;追踪新闻与出版机构的 AI 工程投入，尤其是档案检索、事实核验、受众分发和内容结构化是否提高 AI 答案中的权威来源占比。&lt;/li&gt;
+&lt;li&gt;继续观察 Profound、AthenaHQ、Peec AI、Otterly.AI 等公司的融资、并购和产品商业化信号；目前不把未交叉验证的传闻写入日报。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_3&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;检索窗口&lt;/strong&gt;：Asia/Singapore 2026-09-28 09:01:16—2026-09-29 09:01:16。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;实际后端&lt;/strong&gt;：使用默认 &lt;code&gt;web_search&lt;/code&gt; 进行英文优先检索，并使用 &lt;code&gt;web_extract&lt;/code&gt; 提取实际命中或由已提取页面链接出的官方页面。环境未暴露可用的 SearXNG-local 或 Tavily 补充后端。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fallback 与失败类型&lt;/strong&gt;：&lt;code&gt;web_search&lt;/code&gt; 共调用 10 次（并行调用逐个计数）。结果出现明显噪声、重复首页、GEO 与基因表达数据库混淆、中文旧页面以及与查询不匹配的过时内容，因此将搜索后端视为异常；没有重复相同查询，转而核验已命中的官方页面。未使用无法核验的搜索结果作为事实来源。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源数量&lt;/strong&gt;：共成功提取 11 个 URL；最终用于事实支撑的主要官方页面 4 个，来自 Google Search Help 与 OpenAI 官方站点两个独立域名。主要来源为 Google AI 回答分享帮助页、OpenAI Release Notes、Lenfest/OpenAI 联合公告和 GPT-6 Sol/Luna 官方发布页。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;交叉验证限制&lt;/strong&gt;：本日报没有获得足够的独立媒体或第二个独立域名来交叉确认 GEO 厂商融资/上市动态；Lenfest 支持公告为单一官方来源，且属于 AI 内容生态支持而非 GEO 厂商融资。因此对“过去 24 小时无高可信 GEO 融资/上市新增”的表述采用谨慎措辞，并明确标注信息有限。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;引用原则&lt;/strong&gt;：以成功提取并核验的页面为准；历史页面均标为“历史续报”，不冒充过去 24 小时新闻。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-09-28</title>
+    <link href="https://daily.localgpt.net/2026-09-28-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-09-28-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-09-28-geo-daily/</id>
+    <updated>2026-09-28T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-09-28</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;检索窗口：2026-09-27 09:00—2026-09-28 09:00（Asia/Singapore）。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;摘要&lt;/h2&gt;
+&lt;p&gt;今日 GEO 无重大新增，附趋势续报。本轮可访问并成功提取的官方页面，没有确认 24 小时窗口内 Google AI Overview / AI Mode、ChatGPT Search、Perplexity、Claude、Gemini 或 Copilot 发生重大产品、引用机制或测量框架变化。搜索后端返回了较多无关、重复和明显过旧结果，因此不把历史资料包装成当日新闻。&lt;/p&gt;
+&lt;h2 id=&quot;_2&quot;&gt;主要动态与趋势续报&lt;/h2&gt;
+&lt;h3 id=&quot;1-ai&quot;&gt;1. AI 可见度从“平台总分”转向“人群/场景分层”&lt;/h3&gt;
+&lt;p&gt;Profound 的研究分析了 71,147 条来自 ChatGPT、Claude 和 Gemini 的回答：当同一问题改变收入、年龄、性别或职业等 persona 时，品牌提及约只有四分之一重合，引用域名约只有五分之一重合。该研究的实验发生在 2026-08-11 至 2026-08-24，属于历史趋势续报，不是过去 24 小时新发布。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;解读：&lt;/strong&gt; GEO 监测不应只看平台平均可见度；应按目标人群、预算、使用场景建立 prompt 矩阵，并分别追踪品牌提及、引用域名和模型检索词。内容侧要显式写清价格、适用人群、资格条件和使用场景。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/blog/do-answer-engines-customize-responses-to-different-personas&quot;&gt;https://www.tryprofound.com/blog/do-answer-engines-customize-responses-to-different-personas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-ai&quot;&gt;2. AI 购物可见度正在依赖商品数据接入，而不只是网页排名&lt;/h3&gt;
+&lt;p&gt;Profound 的大规模观察研究称，GPT-5.6 发布后，ChatGPT Shopping 的 feed-integrated retrieval 在 2026-07-10 从约 8.26% 升至 61.54%，并在其样本中超过网页搜索；研究估计约 65% 的商品推荐涉及 feed integration，Shopify 约占 feed-integrated retrieval 的 35%。这是第三方平台研究，不是 OpenAI 官方公告，且样本覆盖 2026 年 7—8 月。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;解读：&lt;/strong&gt; 电商 GEO 的优先级应加入结构化商品 feed、库存/价格新鲜度、变体和平台目录接入；只做文章 SEO 可能无法覆盖 AI Shopping 的主要召回路径。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/blog/chatgpt-5.6-shopping-transformation&quot;&gt;https://www.tryprofound.com/blog/chatgpt-5.6-shopping-transformation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;3-ai&quot;&gt;3. 价格页和外部“答案栈”成为 AI 商业决策的薄弱环节&lt;/h3&gt;
+&lt;p&gt;Profound 与 Growth Unhinged 对 Cloud 100 企业的 7,600 条价格相关回答进行研究，覆盖 ChatGPT、Google AI Mode、Google AI Overviews、Gemini、Copilot 和 Perplexity。研究称企业自有价格页很少是 AI 答案的首要来源，只有 57% 的样本具备较好的 AI-readable pricing page；数据采集于 2026-07-29 至 2026-08-10，同样是趋势续报。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;解读：&lt;/strong&gt; 品牌应把定价、套餐边界、限制条件、更新日期和第三方证据做成可检索的“答案栈”，并持续核验 AI 是否引用过期或错误价格。该结论来自供应商研究，不能替代独立审计。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/blog/what-ai-agents-really-think-about-your-pricing&quot;&gt;https://www.tryprofound.com/blog/what-ai-agents-really-think-about-your-pricing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未发现高可信新增融资/上市动态。对 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI、Writesonic、BrightEdge、Semrush、Ahrefs、Similarweb、Yext、Conductor、Botify 等 GEO/AI Search 相关公司，本轮可用实时结果未确认新的融资、并购、IPO/上市、招股书或估值变化。&lt;/p&gt;
+&lt;p&gt;值得跟踪的历史资本信号是：Profound 官方 Newsroom 列出其以 1.8B 美元估值完成 180M 美元 Series D，日期为 2026-09-15，明显不在本次 24 小时窗口内。官方页面同时列出 TechCrunch 与 Bloomberg 的相关报道链接。此条对融资金额和公司披露的可信度较高，但本轮未独立抓取两家媒体正文，交叉验证仍有限；不能写成今日融资新闻。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/newsroom&quot;&gt;https://www.tryprofound.com/newsroom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/newsroom/profound-raises-usd180m-series-d-at-usd1-8b-valuation-to-build-the-ai-platform-for-marketing-teams&quot;&gt;https://www.tryprofound.com/newsroom/profound-raises-usd180m-series-d-at-usd1-8b-valuation-to-build-the-ai-platform-for-marketing-teams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/&quot;&gt;https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2026-09-15/profound-hits-1-8-billion-value-to-boost-brands-in-ai-search?srnd=undefined&quot;&gt;https://www.bloomberg.com/news/articles/2026-09-15/profound-hits-1-8-billion-value-to-boost-brands-in-ai-search?srnd=undefined&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;资本含义：&lt;/strong&gt; 市场关注点正从“监测品牌是否被引用”转向“发现机会—生成内容/行动—测量商业结果”的闭环。Series D 是重要行业信号，但单一公司融资不能代表整个 GEO 赛道已经形成普遍估值基准。&lt;/p&gt;
+&lt;h2 id=&quot;_3&quot;&gt;平台官方列表核验&lt;/h2&gt;
+&lt;p&gt;在已成功提取的官方列表页中，未看到 2026-09-27 至 2026-09-28 窗口内可确认的相关重大条目：Google Search 官方页当前展示的是泛 Search 内容；OpenAI News 页面最新可见条目为 2026-09-06；Perplexity Blog 页面最新可见条目为 2026-09-09。由于列表页可能分页、延迟更新或缺少完整发布时间，结论限定为“本轮未确认”，不等同于平台绝对没有发布。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/products/search/&quot;&gt;https://blog.google/products/search/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/news/&quot;&gt;https://openai.com/news/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog&quot;&gt;https://www.perplexity.ai/hub/blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.anthropic.com/news&quot;&gt;https://www.anthropic.com/news&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;_4&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;继续核查 Google AI Overview / AI Mode、ChatGPT Search 与 Perplexity 的官方 release notes；若出现引用排序、购物目录或答案格式变化，应单独建立回归测试。&lt;/li&gt;
+&lt;li&gt;为重点品牌建立 persona × 平台 × 场景的 GEO 监测矩阵，尤其测试价格、资格、预算和人群标签对引用域名的影响。&lt;/li&gt;
+&lt;li&gt;跟踪 Profound Series D 后的商业化动作，以及“AI 可见度监测”向 AI Marketer、内容执行、商品 feed 和结果归因扩展的竞争格局；融资/估值信息需等待独立媒体或监管材料进一步确认。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_5&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;窗口：&lt;/strong&gt; 2026-09-27 09:00 至 2026-09-28 09:00，Asia/Singapore（对应 UTC 2026-09-27 01:00 至 2026-09-28 01:00）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;实际后端：&lt;/strong&gt; 使用可用的默认 &lt;code&gt;web_search&lt;/code&gt; 与 &lt;code&gt;web_extract&lt;/code&gt;。本环境未暴露可单独调用的 &lt;code&gt;searxng-local&lt;/code&gt; 或 &lt;code&gt;tavily-search&lt;/code&gt; 接口，因此没有可用的独立补充搜索后端；未使用 terminal、curl 或 browser 进行额外搜索。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;调用与降级：&lt;/strong&gt; &lt;code&gt;web_search&lt;/code&gt; 共 10 次；前两批结果虽返回成功状态，但出现明显无关结果、重复结果、旧日期和噪声，遂将搜索后端标记为异常，不重复相同查询。随后转为提取 Google、OpenAI、Perplexity、Anthropic 和 Profound 官方页面，并只采用成功提取、可核验的内容。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源数量：&lt;/strong&gt; &lt;code&gt;web_extract&lt;/code&gt; 共提交 12 个 URL，均为成功返回或成功返回页面内容的 URL；与正文直接相关的主要页面来自 Profound 官方研究/产品/Newsroom，以及 Google、OpenAI、Perplexity、Anthropic 官方列表页。正文主要事实集中于单一 GEO 供应商，独立域名交叉验证不足。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;限制：&lt;/strong&gt; Profound 的研究和购物结论是供应商观察数据，不是平台方公告；部分官方列表页不显示精确发布时间；融资外部报道 URL 由 Profound Newsroom 列出，本轮未抓取其正文。因此本期把所有非窗口内材料明确标为“趋势续报”，并降低确定性表述。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-09-27</title>
+    <link href="https://daily.localgpt.net/2026-09-27-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-09-27-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-09-27-geo-daily/</id>
+    <updated>2026-09-27T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-09-27</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;检索窗口：2026-09-26 09:01:09—2026-09-27 09:01:09（Asia/Singapore）。&lt;/p&gt;
+&lt;p&gt;总结：今日 GEO 无重大新增，附昨日趋势延续。过去 24 小时未获得足够可靠、可交叉验证的产品发布、引用机制调整或行业事件证据。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今日要点&lt;/h2&gt;
+&lt;h3 id=&quot;1-24-geoai-search&quot;&gt;1. 过去 24 小时未确认重大 GEO/AI Search 新闻&lt;/h3&gt;
+&lt;p&gt;本窗口内没有核验到 Google AI Overview/AI Mode、ChatGPT Search、Perplexity、Claude、Gemini 或 Copilot 的明确新公告。检索结果出现旧页面、导航页、无关内容和高度重复摘要，因此不把搜索摘要本身当作事实，也不把历史资料伪装成当日动态。&lt;/p&gt;
+&lt;h3 id=&quot;2-google-ai-mode&quot;&gt;2. Google AI Mode 的当前产品形态仍是“答案 + 可继续探索的网页链接”&lt;/h3&gt;
+&lt;p&gt;Google 官方页面展示了多轮追问、多模态输入、Search Live、个性化结果和生成式布局，并明确提示 AI Mode 仍可能出错、处于快速演进状态。对 GEO 的直接启示是：内容应先给出可独立引用的结论，再提供来源、证据和可展开细节；只做关键词覆盖不足以稳定进入答案链路。此为当前产品页观察，不计作过去 24 小时新发布。&lt;/p&gt;
+&lt;p&gt;来源：https://search.google/ways-to-search/ai-mode/&lt;/p&gt;
+&lt;h3 id=&quot;3-chatgpt-perplexity&quot;&gt;3. ChatGPT 与 Perplexity 仍以检索增强的答案体验为入口，但未见可核验的当日机制变更&lt;/h3&gt;
+&lt;p&gt;ChatGPT 页面当前暴露 Web search 与 Deep research 入口；Perplexity 首页仍将自身定位为提供实时答案的 AI answer engine。两者可作为 GEO 监测对象，但本次页面没有给出过去 24 小时内的版本公告或引用规则变化，结论强度限定为“产品形态延续”。&lt;/p&gt;
+&lt;p&gt;来源：https://chatgpt.com/ ；https://www.perplexity.ai/&lt;/p&gt;
+&lt;h3 id=&quot;4&quot;&gt;4. 今日操作含义：先做引用份额监测，不只看自然流量&lt;/h3&gt;
+&lt;p&gt;在没有可靠新规则可跟进的日子，建议以固定问题集观察品牌/产品是否被答案引用、引用来源是否来自一手页面、回答是否准确，以及不同引擎之间的波动；把流量、排名作为结果指标，而不是唯一目标。该判断基于 Google、ChatGPT 与 Perplexity 当前公开产品入口，属于编辑分析而非平台新规。&lt;/p&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未发现高可信新增融资/上市动态。针对 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI、Writesonic、BrightEdge、Semrush、Ahrefs、Similarweb、Yext、Conductor、Botify 等相关公司，本轮没有拿到可核验的公司公告、投资方公告、SEC/交易所文件或高可信媒体报道，因此不写入融资、并购、估值或 IPO 事实。该结论是“未发现”，不是对市场不存在相关事件的证明。&lt;/p&gt;
+&lt;p&gt;趋势参照（非资本事件证据）：Google AI Mode 官方产品页：https://search.google/ways-to-search/ai-mode/；ChatGPT 产品页：https://chatgpt.com/ 。可信度判断：产品功能描述为官方一手页面，可信度高；无法替代融资/上市文件，资本市场判断仍为信息不足。值得继续跟踪的方向是 GEO 监测工具能否把“被引用/被推荐”转化为可审计的企业指标，以及该指标是否成为下一轮 SEO 软件商业化与投资叙事的核心。&lt;/p&gt;
+&lt;h2 id=&quot;_2&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;用 10—20 个高价值问题建立 Google AI Mode、ChatGPT Search、Perplexity 的基线，记录品牌出现率、引用域名和答案准确率。&lt;/li&gt;
+&lt;li&gt;关注 Google AI Mode 官方说明与产品变化，重点测试多轮追问、多模态问题下的来源选择。&lt;/li&gt;
+&lt;li&gt;继续观察 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI 等公司的官方公告、融资数据库和交易文件；今日不把未核验传闻列为信号。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_3&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;检索窗口&lt;/strong&gt;：2026-09-26 09:01:09—2026-09-27 09:01:09（Asia/Singapore）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;实际后端&lt;/strong&gt;：默认 &lt;code&gt;web_search&lt;/code&gt; 完成 8 个英文定向查询；随后对已返回的官方 URL 使用 &lt;code&gt;web_extract&lt;/code&gt; 做页面核验，共成功提取 4 个页面。当前环境未暴露可用的 SearXNG 或 Tavily 补充接口。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fallback 与失败类型&lt;/strong&gt;：搜索结果出现高度重复、明显噪声、旧/无关页面和部分异常 URL；未重复相同查询，改为提取已返回的 Google、OpenAI/ChatGPT、Perplexity 官方页面。没有把未成功提取或无法核验的页面作为事实来源。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源数量&lt;/strong&gt;：4 个成功提取的官方页面 URL：&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://search.google/ways-to-search/ai-mode/&quot;&gt;https://search.google/ways-to-search/ai-mode/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/&quot;&gt;https://openai.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chatgpt.com/&quot;&gt;https://chatgpt.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/&quot;&gt;https://www.perplexity.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;交叉验证限制&lt;/strong&gt;：有效来源主要是官方产品页，没有获得过去 24 小时内可交叉验证的独立媒体报道、融资数据库记录、监管/交易所文件或公司融资公告；因此日报采用“无可靠新增 + 趋势续报”的低结论强度写法。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-09-26</title>
+    <link href="https://daily.localgpt.net/2026-09-26-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-09-26-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-09-26-geo-daily/</id>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-09-26</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;结论：今日 GEO 无重大新增，附已核验的近期趋势延续。过去 24 小时内暂未确认 Google AI Overview/AI Mode、ChatGPT Search、Perplexity、Claude、Gemini 或 Copilot 的重大产品发布、引用机制变化或高可信行业交易。由于实时搜索后端结果异常，结论采用较低强度表述。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;主要动态&lt;/h2&gt;
+&lt;h3 id=&quot;1-24&quot;&gt;1. 过去 24 小时未核验到主流答案引擎重大更新&lt;/h3&gt;
+&lt;p&gt;Google Search 与 AI 官方栏目、OpenAI News、Perplexity Blog 的页面当前没有列出 2026-09-25 09:00 至 2026-09-26 09:00（Asia/Singapore）窗口内的新产品公告。OpenAI 页面当前最新可见条目为 9 月 6 日，Perplexity Blog 当前最新可见条目为 9 月 9 日；这只能说明本次公开页面未显示窗口内更新，不代表全市场绝对没有小范围灰度。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/products/search/&quot;&gt;https://blog.google/products/search/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/technology/ai/&quot;&gt;https://blog.google/technology/ai/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/news/&quot;&gt;https://openai.com/news/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog&quot;&gt;https://www.perplexity.ai/hub/blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-geo&quot;&gt;2. GEO 监测从“被看见”继续走向“带来收入”（趋势续报）&lt;/h3&gt;
+&lt;p&gt;Peec AI 9 月 11 日发布 AI referrals：把 AI 助手带来的会话、参与度、转化和收入按助手、落地页、国家和设备拆分，并将 GA4、服务器日志、提示词追踪连接成“抓取—被检索—被引用—访问—转化”链路。对 GEO 团队而言，单看 mention/share of voice 已不足以证明商业价值。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://peec.ai/blog/introducing-ai-referrals&quot;&gt;https://peec.ai/blog/introducing-ai-referrals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://peec.ai/blog&quot;&gt;https://peec.ai/blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;3-kpi&quot;&gt;3. 检索质量正在成为引用之前的上游 KPI（趋势续报）&lt;/h3&gt;
+&lt;p&gt;Perplexity Research 9 月 9 日发布 Q2D-Web：覆盖约 1.9 亿网页文档、69,721 个代理改写查询、10 种语言，并用代理引用、网页排名和 LLM 判断构成三套相关性标签。其启示是：内容要先进入高质量候选集，才有机会进入答案和引用；GEO 测量应同时记录 retrieval、citation 与最终业务结果。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog/q2d-web&quot;&gt;https://www.perplexity.ai/hub/blog/q2d-web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;4&quot;&gt;4. 可见度监测正从“平台平均值”转向“人群与引擎切片”（趋势续报）&lt;/h3&gt;
+&lt;p&gt;Profound 官方博客当前展示的研究称，其对 71,147 条回答分析了不同 persona 对品牌提及、引用和搜索行为的影响，并将 Claude 与 Claude Code 视为不同的 Answer Engine。若该方向持续，企业需要按受众、任务、引擎和代理类型建立 GEO 基线，而不是用一个总分代表所有答案场景。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/blog&quot;&gt;https://www.tryprofound.com/blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未发现高可信新增融资/上市动态；也未核验到 GEO/AI Search 相关公司的并购、招股书、估值重估或公开二级市场交易信号。Profound、Peec AI 与 Otterly.AI 的公开页面本次主要呈现产品、研究或方法论内容，没有可确认的窗口内资本事件。该结论受实时搜索异常和公开披露滞后影响，不能等同于全市场没有未公开交易。值得跟踪的结构性趋势是：AI referrals、server-log/agent analytics、citation decay 和按人群拆分的可见度，正在把 GEO 工具从排名监测推向营销归因与企业预算管理。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/blog&quot;&gt;https://www.tryprofound.com/blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://peec.ai/blog&quot;&gt;https://peec.ai/blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://otterly.ai/blog&quot;&gt;https://otterly.ai/blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;_2&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;用 GA4、边缘/CDN 日志和提示词数据建立“抓取—检索—引用—访问—转化”闭环，避免把引用率当成唯一 ROI。&lt;/li&gt;
+&lt;li&gt;参考 Q2D-Web 的思路，为重点查询建立候选集、相关性和引用质量的分层测试；同时按 ChatGPT、Perplexity、Google AI surfaces 及目标人群拆分。&lt;/li&gt;
+&lt;li&gt;继续观察 Profound、Peec AI、Otterly.AI 等公司的融资、企业客户扩张、代理分析和归因产品信号；目前暂无足够高可信交易消息可纳入资本市场判断。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_3&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;检索窗口&lt;/strong&gt;：2026-09-25 09:00:35 至 2026-09-26 09:00:35，Asia/Singapore；国际主题优先使用英文查询。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;搜索后端与 fallback&lt;/strong&gt;：默认 &lt;code&gt;web_search&lt;/code&gt; 共调用 6 次；结果出现明显噪声、重复、过旧或主题不相关（例如博彩、植物大战僵尸、通用首页），因此标记为异常且未把其结果作为事实来源。环境未暴露可用的 Tavily/SearXNG 补充接口；随后改用 &lt;code&gt;web_extract&lt;/code&gt; 直接核验官方公告、研究和公司博客页面。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;提取结果&lt;/strong&gt;：共请求 12 个 URL，11 个成功、1 个 404；成功来源主要来自 Google、OpenAI、Perplexity、Profound、Peec AI、Otterly.AI、Semrush、Yext 等官方域名。失败 URL 为 Microsoft AI 分类页，未引用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;交叉验证限制&lt;/strong&gt;：本次有效内容以官方一手页面为主，但窗口内缺少独立媒体或监管/交易文件交叉验证；资本市场“未发现”属于有限公开检索结论，需等待公司公告、投资机构披露或交易数据库更新后再确认。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-09-25</title>
+    <link href="https://daily.localgpt.net/2026-09-25-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-09-25-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-09-25-geo-daily/</id>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-09-25</summary>
+    <content type="html">
+&lt;h2 id=&quot;_1&quot;&gt;今日结论&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;今日 GEO 无重大新增，附昨日趋势延续。&lt;/strong&gt; 本次可核验范围内，过去 24 小时未发现能够由高可信来源确认的 Google AI Overview / AI Mode、ChatGPT Search、Perplexity 或 GEO 工具链重大产品、融资、并购、上市变化。以下续报均明确标注日期，不将历史资料冒充当日新闻。&lt;/p&gt;
+&lt;h2 id=&quot;_2&quot;&gt;主要动态&lt;/h2&gt;
+&lt;h3 id=&quot;1-24&quot;&gt;1. 平台侧暂未见过去 24 小时的新公告&lt;/h3&gt;
+&lt;p&gt;本次核验的 Google Search/AI、OpenAI News、Perplexity Blog 官方页面，未见明确标注 2026-09-24 至 2026-09-25 的 AI 搜索引用机制重大变更。可核验页面显示，相关平台近期更新仍以产品与研究迭代为主：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Search 官方栏目：&lt;a href=&quot;https://blog.google/products/search/&quot;&gt;https://blog.google/products/search/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;OpenAI News：&lt;a href=&quot;https://openai.com/news/&quot;&gt;https://openai.com/news/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Perplexity Blog：&lt;a href=&quot;https://www.perplexity.ai/hub/blog&quot;&gt;https://www.perplexity.ai/hub/blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-gemini-connected-apps-9-23-24&quot;&gt;2. Gemini Connected Apps 继续把搜索/助手推向“回答+执行”（9 月 23 日，趋势续报，非过去 24 小时确认新增）&lt;/h3&gt;
+&lt;p&gt;Google 宣布 Connected Apps 开始向 Gemini 推出，覆盖 Airtable、Linear、monday.com、Adobe、Webflow、Peloton、SeatGeek 等生产力、创意和生活服务，并支持 @mention 或直接请求调用。对 GEO 的含义是：品牌竞争不只在答案中获得引用，也在争取进入 AI 助手后续任务、推荐与交易链路；实体信息、产品目录和可调用接口的可读性会更重要。&lt;/p&gt;
+&lt;p&gt;来源：https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/&lt;/p&gt;
+&lt;h3 id=&quot;3&quot;&gt;3. 测量框架从“是否被引用”走向检索质量与转化闭环（历史续报）&lt;/h3&gt;
+&lt;p&gt;Perplexity 9 月 9 日发布 Q2D-Web，称其基于 7 万个 agent queries、1.9 亿个网页文档和三组相关性判断，强调第一阶段检索器的规模化评估。Peec AI 9 月 11 日发布 AI referrals 产品更新，关注 AI 助手带来的访问、点击到转化。两条产品/研究线都显示，GEO 工具正在从简单可见度排名转向检索质量、来源选择、引荐和收入归因。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog/q2d-web&quot;&gt;https://www.perplexity.ai/hub/blog/q2d-web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://peec.ai/blog/introducing-ai-referrals&quot;&gt;https://peec.ai/blog/introducing-ai-referrals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;4&quot;&gt;4. 资本市场与创业公司信号&lt;/h3&gt;
+&lt;p&gt;在本次可核验范围内，&lt;strong&gt;过去 24 小时未发现高可信新增融资/上市动态&lt;/strong&gt;，也未发现可交叉验证的 GEO 专项并购、估值或二级市场事件。Peec AI 的 AI referrals、ChatGPT Visibility Tracker、Gemini Visibility Tracker 和 AI Mode Visibility Tracker 说明商业化仍在向“监测—引荐—归因”延伸，但这些是产品信号，不应解读为融资或估值信号。&lt;/p&gt;
+&lt;p&gt;来源：https://peec.ai/blog&lt;/p&gt;
+&lt;h2 id=&quot;_3&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;跟踪 Gemini Connected Apps 后续是否改变品牌在答案、推荐和执行环节的曝光分配，并观察 Google AI Mode 是否出现相应引用机制说明。&lt;/li&gt;
+&lt;li&gt;将 GEO 看板从 citation share 扩展到 AI referral、点击、转化和收入归因；可参考 Q2D-Web 的检索器评估思路与 Peec AI 的 referral 方向。&lt;/li&gt;
+&lt;li&gt;持续观察 Profound、Peec AI、AthenaHQ、Otterly.AI 等公司的商业化和融资披露；今日不以缺乏可核验报道推断其融资状态。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;结论：&lt;strong&gt;过去 24 小时未发现高可信新增融资/上市动态。&lt;/strong&gt; 本次检索未获得可核验的 GEO / AI Search / AEO 公司融资、并购、IPO、招股书、估值变动或投资人新观点。Peec AI 官方博客可确认 9 月 11 日 AI referrals 产品更新，属于产品商业化信号，不是资本事件：https://peec.ai/blog/introducing-ai-referrals 。其博客还列出 ChatGPT index、AI Mode/Gemini/ChatGPT visibility 等产品方向：https://peec.ai/blog 。&lt;/p&gt;
+&lt;p&gt;可信度判断：产品发布日期和功能描述为公司一手来源，可信度较高但未独立交叉验证；“未发现融资/上市”受本次搜索后端异常影响，可信度为中等，不能等同于市场不存在未公开或未被索引的交易。Profound 官方博客本次抓取失败，未作为有效来源或事实依据。&lt;/p&gt;
+&lt;h2 id=&quot;_4&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;检索窗口：&lt;/strong&gt; Asia/Singapore 时间 2026-09-24 09:00:11 至 2026-09-25 09:00:11；日报日期为 2026-09-25。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;实际后端：&lt;/strong&gt; 使用可用的 &lt;code&gt;web_search&lt;/code&gt; 完成 10 次英文优先检索；使用 &lt;code&gt;web_extract&lt;/code&gt; 核验官方/公司页面，共请求 12 个 URL，成功提取 11 个，1 个抓取失败。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fallback 与失败类型：&lt;/strong&gt; 未暴露可用的 SearXNG-local 或 Tavily 接口；&lt;code&gt;web_search&lt;/code&gt; 结果出现明显中文噪声、无关页面、官方首页替代具体新闻、空结果和过旧结果，按规则标记为异常；随后切换为直接提取官方栏目和公司博客，未重复相同查询或失败 URL。未使用模型记忆补充当日事实。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源数量与域名：&lt;/strong&gt; 成功提取页面来自约 5 个主要域名（Google、OpenAI、Anthropic、Perplexity、Peec AI）；本稿主要引用 Google、Perplexity、Peec AI 等 3 个域名的 5 条具体页面/栏目链接，并保留 OpenAI 官方新闻页作为平台侧核验依据。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;交叉验证限制：&lt;/strong&gt; 近期功能事实主要是官方一手来源，单条动态多为单一来源；由于搜索后端异常，未能用 Reuters、TechCrunch 等独立媒体对 2026-09-24 至 09-25 的融资或产品新闻完成交叉验证，因此降低结论强度，并将 9 月 23 日及更早信息全部标为趋势续报。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-09-24</title>
+    <link href="https://daily.localgpt.net/2026-09-24-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-09-24-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-09-24-geo-daily/</id>
+    <updated>2026-09-24T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-09-24</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;检索窗口：Asia/Singapore 2026-09-23 09:00:49 至 2026-09-24 09:00:49。过去 24 小时未发现可由高可信来源确认的重大 GEO 产品更新、引用机制变化或资本事件；下文将可核验的近期资料明确标为“趋势续报”，不冒充当日新闻。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;重点动态&lt;/h2&gt;
+&lt;h3 id=&quot;1-24&quot;&gt;1. 官方产品更新：暂未检出过去 24 小时的重大变化&lt;/h3&gt;
+&lt;p&gt;已核验 Google Search、OpenAI News、Perplexity Blog、Anthropic News 等官方索引，当前可见的最新条目分别落在更早日期或未提供可确认的窗口内，未能确认 Google AI Overviews/AI Mode、ChatGPT Search、Perplexity 或 Claude 在本窗口内有新的 GEO 相关发布。结论强度为“未检出”，不是对所有未公开变更的绝对否定。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/products/search/&quot;&gt;https://blog.google/products/search/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/news/&quot;&gt;https://openai.com/news/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog&quot;&gt;https://www.perplexity.ai/hub/blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.anthropic.com/news&quot;&gt;https://www.anthropic.com/news&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-ai&quot;&gt;2. 趋势续报：AI 可见度测量继续从“提及”走向品牌可见度与渠道归因&lt;/h3&gt;
+&lt;p&gt;Similarweb 的博客页面列出 2026 Generative AI Brand Visibility Index（页面标注 2026-09-17），将跨行业 AI 搜索品牌表现作为独立测量对象；Peec AI 的页面列出 2026-09-11 的 AI referrals 产品更新，关注 AI 助手把访问从点击带到转化的路径。两者都说明 GEO 价值衡量正从单一 mention/share of voice，扩展到引用、访问和商业结果。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.similarweb.com/blog/&quot;&gt;https://www.similarweb.com/blog/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.similarweb.com/corp/reports/the-2026-generative-ai-brand-visibility-index/&quot;&gt;https://www.similarweb.com/corp/reports/the-2026-generative-ai-brand-visibility-index/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://peec.ai/blog&quot;&gt;https://peec.ai/blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;3-agent-query&quot;&gt;3. 趋势续报：检索评估开始强调 agent query、首阶段检索和规模化相关性&lt;/h3&gt;
+&lt;p&gt;Perplexity Research 页面列出的 Q2D-Web（2026-09-09）覆盖 7 万个 agent queries、1.9 亿网页文档和多组相关性判断，显示答案引擎优化的技术讨论正在从“写什么内容”向“内容如何被检索、重排和引用”移动。它是研究信号，不是过去 24 小时的新发布。&lt;/p&gt;
+&lt;p&gt;来源：https://www.perplexity.ai/hub/blog/q2d-web&lt;/p&gt;
+&lt;h3 id=&quot;4&quot;&gt;4. 行业工具链：从监测面板向可执行工作流延伸&lt;/h3&gt;
+&lt;p&gt;Profound 官网博客目录同时展示 Prompt Volumes、Agent Analytics、Citation Decay、YouTube Citation Breakdown、Context Manager 及 Adobe Experience Manager 节点等产品/研究主题；Semrush 公开博客也持续围绕 AI citation outreach、ChatGPT 流量追踪和 agentic SEO 展开内容。页面未给出足够信息证明这些条目属于本窗口新增，因此仅作为产品化方向观察。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/blog&quot;&gt;https://www.tryprofound.com/blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.semrush.com/blog/&quot;&gt;https://www.semrush.com/blog/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未发现高可信新增融资/上市动态。已核验的公司公开页面没有显示 Profound、Peec AI、AthenaHQ、Otterly.AI、Scrunch AI、Goodie AI、Writesonic、BrightEdge、Semrush、Ahrefs、Similarweb、Yext、Conductor 或 Botify 在本窗口内完成融资、并购、IPO/上市、招股书披露或估值更新。Profound 官网博客目录仍保留其历史上的 350 万美元 seed round 文章，但没有本窗口日期，不能作为今日融资新闻；其投资方与金额也未在本轮检索中获得独立财务来源交叉验证。当前更值得跟踪的资本信号是：GEO 公司商业化叙事正从“排名/提及监测”转向 AI referral、agent analytics、prompt volume 和内容发布闭环。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/blog&quot;&gt;https://www.tryprofound.com/blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://peec.ai/blog&quot;&gt;https://peec.ai/blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.similarweb.com/blog/&quot;&gt;https://www.similarweb.com/blog/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;_2&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;继续观察 Google Search 官方页是否出现 AI Overviews/AI Mode 的新检索或引用机制说明，并记录发布日期与可见范围。&lt;/li&gt;
+&lt;li&gt;将 AI referrals、citation decay、prompt volume 与实际转化/收入数据绑定，避免只用品牌提及率评价 GEO。&lt;/li&gt;
+&lt;li&gt;重点跟踪 Profound、Peec AI、Otterly.AI、Scrunch AI 等公司的融资与并购信号；在出现公司公告、投资方公告、SEC/交易所文件或高可信媒体前，不提高结论强度。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_3&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;检索窗口：Asia/Singapore 2026-09-23 09:00:49—2026-09-24 09:00:49。&lt;/li&gt;
+&lt;li&gt;搜索后端：先使用默认 &lt;code&gt;web_search&lt;/code&gt; 进行 6 次英文主题检索；结果出现明显噪声、旧内容、重复内容和与 GEO 无关的页面，标记为异常，未将其作为事实来源，也未重复相同查询。&lt;/li&gt;
+&lt;li&gt;Fallback：切换到官方页面的 &lt;code&gt;web_extract&lt;/code&gt;，共请求 12 个 URL；11 个页面成功提取，1 个 Google Search Labs URL 返回 404 并跳过。成功页面覆盖 Google、OpenAI、Perplexity、Anthropic、Microsoft、Semrush、Similarweb、Profound、Peec AI 等 9 个域名。&lt;/li&gt;
+&lt;li&gt;来源数量与交叉验证：本稿主要使用 11 个成功提取页面中的 9 个域名；对当日产品变化和资本事件未获得独立媒体、投资方、监管/交易所文件的第二来源，因此“过去 24 小时无高可信新增”的结论应理解为本次可访问来源范围内未检出，不能替代完整市场情报覆盖。&lt;/li&gt;
+&lt;li&gt;限制：未引用搜索结果中无法成功提取、404、内部地址或内容为空的页面；历史资料仅作为趋势续报，未用于制造当日新闻。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-09-23</title>
+    <link href="https://daily.localgpt.net/2026-09-23-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-09-23-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-09-23-geo-daily/</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-09-23</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;检索窗口&lt;/strong&gt;：2026-09-22 09:01 至 2026-09-23 09:01（Asia/Singapore）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;今日判断&lt;/strong&gt;：今日 GEO 无重大新增，附昨日趋势延续。由于实时搜索结果出现明显噪声、重复和过旧页面，本文只把成功提取并核验的官方页面写成事实；未把历史资料冒充过去 24 小时新闻。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今日重点动态&lt;/h2&gt;
+&lt;h3 id=&quot;1-google-ai-mode-search-24&quot;&gt;1. Google AI Mode：当前 Search 入口仍可见，但未确认过去 24 小时有机制更新&lt;/h3&gt;
+&lt;p&gt;Google 当前首页显示 &lt;strong&gt;AI Mode&lt;/strong&gt; 入口，说明该生成式搜索界面仍在持续运行；不过，这只是当前产品状态，不代表 9 月 22—23 日新发布。Google Search Central 可见的 2026 年 9 月条目主要是 Search Central Live 社区活动，未见本窗口内关于 AI Overview、AI Mode 引用机制或排名规则的官方公告。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;对 GEO 的含义&lt;/strong&gt;：在缺乏新公告时，继续把 AI Mode 的查询覆盖、引用来源和回答形态作为日常监测对象，不宜据“入口可见”推断算法变化。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源&lt;/strong&gt;：&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.google.com/&quot;&gt;https://www.google.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://developers.google.com/search/blog&quot;&gt;https://developers.google.com/search/blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/products/search/&quot;&gt;https://blog.google/products/search/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-chatgpt-web-search&quot;&gt;2. ChatGPT 搜索：Web search 入口保持可用，暂无当日引用机制变化&lt;/h3&gt;
+&lt;p&gt;ChatGPT 当前未登录界面仍显示 &lt;strong&gt;Web search&lt;/strong&gt; 入口。OpenAI Newsroom 当前可见公司新闻条目到 2026 年 9 月 21 日，Release Notes 当前可见的 ChatGPT 产品更新到 9 月 17 日；在成功提取的页面中，未见 9 月 22—23 日关于搜索、引用或检索排序的官方更新。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;对 GEO 的含义&lt;/strong&gt;：继续关注被 ChatGPT 选为引用来源的页面类型与内容新鲜度，但不要把既有 Web search 入口误报成今日产品发布。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源&lt;/strong&gt;：&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chatgpt.com/&quot;&gt;https://chatgpt.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/news/&quot;&gt;https://openai.com/news/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/news/company-announcements/&quot;&gt;https://openai.com/news/company-announcements/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/products/release-notes/&quot;&gt;https://openai.com/products/release-notes/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;3-bing-ai&quot;&gt;3. Bing AI 可见性测量：历史续报，指标正在从“引用次数”走向多维可解释性&lt;/h3&gt;
+&lt;p&gt;微软 Bing 在 2026 年 6 月的官方预览中扩展了 Bing Webmaster Tools 的 AI Performance 报告，加入 &lt;strong&gt;Intents、Topics、Citation Share、Compare&lt;/strong&gt; 四项能力：分别帮助理解查询意图、主题聚类、同一查询下的引用份额，以及跨时间段变化。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;重要限定&lt;/strong&gt;：这是 6 月历史续报，不是过去 24 小时的新发布。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;对 GEO 的含义&lt;/strong&gt;：测量框架应同时记录意图、主题覆盖、引用份额和时间序列，不能只用“是否被 AI 引用”或单一可见度分数判断效果。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源&lt;/strong&gt;：&lt;a href=&quot;https://blogs.bing.com/search/June-2026/New-AI-Visibility-Insights-in-Bing-Webmaster-Tools-Intents-Topics-Citation-Share-Compare&quot;&gt;https://blogs.bing.com/search/June-2026/New-AI-Visibility-Insights-in-Bing-Webmaster-Tools-Intents-Topics-Citation-Share-Compare&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;4-perplexity&quot;&gt;4. Perplexity 与行业产品面：当前定位稳定，未发现可核验的当日功能变更&lt;/h3&gt;
+&lt;p&gt;Perplexity 当前页面继续呈现实时答案引擎的产品定位，但页面本身没有披露本窗口内的新功能、引用机制或商业化公告。由于搜索结果未提供可核验的独立新闻页面，不能把产品首页描述写成今日动态。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;对 GEO 的含义&lt;/strong&gt;：Perplexity 监测应优先落到实际回答中的来源选择、引用位置、品牌出现率和查询意图分层，而不是只看产品宣传语。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源&lt;/strong&gt;：&lt;a href=&quot;https://www.perplexity.ai/&quot;&gt;https://www.perplexity.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;过去 24 小时未发现高可信新增融资/上市动态。&lt;/strong&gt; 本窗口围绕 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI、Writesonic、BrightEdge、Semrush、Ahrefs、Similarweb、Yext、Conductor、Botify 等 GEO / AI Search / LLM visibility 相关公司进行了英文检索，但返回结果以无关页面、通用产品首页或旧内容为主；没有拿到可提取、可交叉验证的公司公告、投资机构公告、监管文件、交易所文件或高可信媒体报道。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;可信度判断&lt;/strong&gt;：这是“在本次可核验窗口内未发现”的低至中等置信结论，不等于全市场绝对没有交易；尤其不能据此判断私募融资或未公开估值变化不存在。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可核验的相关行业信号&lt;/strong&gt;：微软 Bing 的 AI Performance 预览仍是目前公开可见的测量产品化方向，但属于 2026 年 6 月历史续报，不构成今日资本事件。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源/核验入口&lt;/strong&gt;：&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blogs.bing.com/search&quot;&gt;https://blogs.bing.com/search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blogs.bing.com/search/June-2026/New-AI-Visibility-Insights-in-Bing-Webmaster-Tools-Intents-Topics-Citation-Share-Compare&quot;&gt;https://blogs.bing.com/search/June-2026/New-AI-Visibility-Insights-in-Bing-Webmaster-Tools-Intents-Topics-Citation-Share-Compare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/news/company-announcements/&quot;&gt;https://openai.com/news/company-announcements/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;_2&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Google AI Mode&lt;/strong&gt;：继续检查 Google 官方 Search/开发者公告，重点寻找引用展示、AI Overview 与 AI Mode 的覆盖范围或测量接口变化；当前仅确认入口存在，未确认新机制。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;测量框架&lt;/strong&gt;：参考 Bing 的 Intents、Topics、Citation Share、Compare，建立自有 GEO 看板，把查询意图、主题覆盖、引用份额、竞品对比和时间变化分开记录。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资本与商业化&lt;/strong&gt;：继续追踪 Profound、Peec AI、Otterly.AI、Scrunch AI 等公司的官方新闻、投资人公告和监管披露；今日没有足够证据确认融资、并购、IPO 或估值新变化。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_3&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;检索窗口&lt;/strong&gt;：2026-09-22 09:01 至 2026-09-23 09:01（Asia/Singapore）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;实际使用的搜索/提取后端&lt;/strong&gt;：&lt;code&gt;web_search&lt;/code&gt; 共 10 次；随后使用 &lt;code&gt;web_extract&lt;/code&gt; 直接核验官方页面，共提取 12 个 URL，成功返回 12 个页面。此次运行未暴露可用的 SearXNG-local 或 Tavily 补充后端。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fallback 情况&lt;/strong&gt;：发生 fallback。&lt;code&gt;web_search&lt;/code&gt; 的结果出现连续无关中文公共资源页面、通用搜索首页、重复的 OpenAI/Gemini/ChatGPT 首页以及明显过旧内容；未继续重复相同查询，改为直接提取 Google、Microsoft、OpenAI、ChatGPT、Perplexity 等官方页面。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主要失败类型&lt;/strong&gt;：结果相关性差、来源重复、时间新鲜度不足；没有把失败页面或无法核验的搜索结果作为事实来源。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源数量与交叉验证&lt;/strong&gt;：成功提取 URL 12 个，涉及约 8 个官方域名/主机，核心有效来源来自 Google、Microsoft Bing、OpenAI 和 Perplexity。Google 的 AI Mode 与 ChatGPT 的 Web search 入口分别有产品页和官方新闻/更新页辅助核验；Bing AI 可见性指标主要由 Microsoft 单一官方文章支撑，缺少独立媒体交叉验证；融资与上市观察没有获得可验证事件来源，因此结论降级并明确标注限制。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可靠性限制&lt;/strong&gt;：没有把模型记忆、搜索摘要或未成功提取的页面写成当日事实；本日报更适合作为“无高可信新增 + 既有趋势续报”，不应替代完整投融资数据库或监管文件核查。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-09-22</title>
+    <link href="https://daily.localgpt.net/2026-09-22-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-09-22-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-09-22-geo-daily/</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-09-22</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;窗口结论：今日 GEO 无重大新增，附昨日趋势延续。&lt;/strong&gt; 本日报按 Asia/Singapore 时间整理，过去 24 小时窗口为 2026-09-21 09:00 至 2026-09-22 09:00。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;1-24-geo&quot;&gt;1. 过去 24 小时：未确认到主要平台的 GEO 直接更新&lt;/h2&gt;
+&lt;p&gt;在本窗口内，未能从成功核验的官方页面确认 Google AI Overviews/AI Mode、ChatGPT Search、Perplexity 或 Claude 的新引用机制、可见度指标或产品公告。OpenAI Newsroom 成功提取到的最新可见条目早于本窗口；Perplexity 官方博客的最新可见研究条目为 2026-09-09。Google Search 官方页和 Anthropic Newsroom 也未呈现可确认属于本窗口的 GEO 直接变化。因此本节是“未发现已核验新增”，不是对所有平台内部灰度实验的否定。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/news/company-announcements/&quot;&gt;https://openai.com/news/company-announcements/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog&quot;&gt;https://www.perplexity.ai/hub/blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/products/search/&quot;&gt;https://blog.google/products/search/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.anthropic.com/news&quot;&gt;https://www.anthropic.com/news&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;2-geo&quot;&gt;2. 测量框架趋势续报：GEO 指标继续向检索层下沉&lt;/h2&gt;
+&lt;p&gt;Perplexity Research 于 2026-09-09 发布 Q2D-Web，面向 agentic RAG 的第一阶段检索评估，覆盖约 7 万条 agent 重写查询、1.9 亿网页文档，并结合代理引用、生产搜索排名和额外 LLM 判断三类相关性标注。该资料不属于过去 24 小时新闻，但值得作为趋势续报：GEO 监测不能只看最终答案是否提及品牌，还要追踪候选文档是否进入检索集、引用资格和多来源相关性。历史资料不得视作今日新增。&lt;/p&gt;
+&lt;p&gt;来源：https://www.perplexity.ai/hub/blog/q2d-web&lt;/p&gt;
+&lt;h2 id=&quot;3&quot;&gt;3. 产品化趋势续报：从“可见度监测”走向“洞察—执行”闭环&lt;/h2&gt;
+&lt;p&gt;Profound 官网当前将 Prompt Volumes、Answer Engine Insights、Agent Analytics 与 AI Marketer 放在同一产品体系中，覆盖需求发现、品牌回答/引用分析、代理抓取分析和营销执行。其博客还展示按 persona 分析品牌提及与引用，以及把洞察连接到内容系统的产品方向。页面未给出这些条目的统一发布日期，故仅作为当前产品定位观察，不计入窗口内新发布。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/&quot;&gt;https://www.tryprofound.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/blog&quot;&gt;https://www.tryprofound.com/blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未发现高可信新增融资/上市动态。Profound 官方 Newsroom 当前列出“Profound Raises $180M Series D at $1.8B Valuation to Build the AI Platform For Marketing Teams”，页面顶部也展示 1.8 亿美元 Series D 相关 banner；但该列表页未显示发布日期，且本轮未取得独立媒体、投资机构或监管文件的交叉验证，因此不能认定为 2026-09-21 至 2026-09-22 的新融资，只能列为待核验资本信号。未确认到 Profound 之外的 GEO 专业公司在窗口内有高可信融资、并购、IPO/上市或估值变动。&lt;/p&gt;
+&lt;p&gt;来源：https://www.tryprofound.com/newsroom&lt;/p&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;核实 Profound $180M Series D 的正式发布日期、投资方和独立披露，判断其是否代表 GEO 工具从监测产品向营销执行平台升级。&lt;/li&gt;
+&lt;li&gt;继续盯住 Google Search、OpenAI、Perplexity 官方更新；一旦出现引用或检索机制变化，应把监测维度从“品牌出现率”扩展到检索入口、来源类型和答案版本。&lt;/li&gt;
+&lt;li&gt;在 GEO 看板中增加 persona、语言/地区、引擎和引用来源分层，避免把单一模型的一次回答当作整体可见度。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_2&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;检索窗口：&lt;/strong&gt; Asia/Singapore 2026-09-21 09:00—2026-09-22 09:00。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;实际后端：&lt;/strong&gt; 使用默认 &lt;code&gt;web_search&lt;/code&gt; 共 10 次；当前环境未暴露可用的 &lt;code&gt;searxng-local&lt;/code&gt; 或 &lt;code&gt;tavily-search&lt;/code&gt;，因此没有可切换的独立补充搜索后端。随后使用 &lt;code&gt;web_extract&lt;/code&gt; 抓取官方页面作为核验补充，共请求 12 个 URL，9 个返回了有效正文。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;失败与限制：&lt;/strong&gt; &lt;code&gt;web_search&lt;/code&gt; 返回结果出现明显不相关、重复、噪声和旧内容；在识别为异常后没有重复相同查询，也未继续搜索循环。部分 GEO 创业公司官网未返回可用正文。由于没有可靠的实时新闻搜索 fallback，本日报对“无新增”的表述限定为“在成功核验的来源中未发现”。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源与交叉验证：&lt;/strong&gt; 本文实际使用/核验 8 个 URL、5 个独立域名，优先采用 OpenAI、Google、Perplexity、Anthropic 与 Profound 官方页面。Q2D-Web 为 Perplexity 单一一手来源且明确是 9 月 9 日历史续报；Profound Series D 仅在其官方 Newsroom 列表中出现，缺少发布日期和独立来源，交叉验证不足，相关资本判断保持低置信度。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-09-21</title>
+    <link href="https://daily.localgpt.net/2026-09-21-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-09-21-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-09-21-geo-daily/</id>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-09-21</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;口径：Asia/Singapore。生成时间为 2026-09-21 09:02:53；“过去 24 小时”窗口为 2026-09-20 09:02:53 至 2026-09-21 09:02:53。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今日结论&lt;/h2&gt;
+&lt;p&gt;今日 GEO 无重大新增，附昨日趋势延续。本次未从可核验页面确认 Google AI Overview/AI Mode、ChatGPT 搜索、Perplexity 或其他主流答案引擎在窗口内出现新的引用机制、可见度指标或产品政策变化。行业主线仍是把“能否被答案引擎检索到、引用、排位和转化”拆成可度量的连续漏斗。由于实时搜索后端出现明显噪声，本期结论采用保守表述，不排除灰度发布、未索引公告或未公开资本事件。&lt;/p&gt;
+&lt;h2 id=&quot;_2&quot;&gt;主要动态&lt;/h2&gt;
+&lt;h3 id=&quot;1-geo&quot;&gt;1. 主流答案引擎暂无窗口内可确认的重大 GEO 变更&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;结论：&lt;/strong&gt; Google Search、OpenAI 和 Perplexity 的公开页面本次未呈现 9 月 20—21 日可确认的 AI 搜索/引用重大公告。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Search 官方更新页未显示窗口内明确的 AI Mode/AI Overview 新条目；OpenAI 新闻页可见内容主要早于窗口，且没有搜索引用变更。&lt;/li&gt;
+&lt;li&gt;Perplexity 博客最近可见的相关研究为 9 月 9 日，不能冒充当日新闻。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/products/search/&quot;&gt;https://blog.google/products/search/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/news/&quot;&gt;https://openai.com/news/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog&quot;&gt;https://www.perplexity.ai/hub/blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2&quot;&gt;2. 检索评测继续向“首阶段召回”前移（历史续报）&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;结论：&lt;/strong&gt; Perplexity 9 月 9 日发布的 Q2D-Web 研究显示，AI 搜索评测正从最终答案质量延伸到代理检索的第一阶段候选召回。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;研究覆盖 7 万个代理查询、1.9 亿网页文档和三组相关性判断。&lt;/li&gt;
+&lt;li&gt;对 GEO 的启示是：内容要先进入检索候选集合，再争取最终引用；实体一致性、结构化信息和可抓取性的重要性上升。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;来源：https://www.perplexity.ai/hub/blog/q2d-web&lt;/p&gt;
+&lt;h3 id=&quot;3-ai&quot;&gt;3. AI 搜索可见度正在产品化为“品牌影响力 + 商业化”指标（趋势续报）&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;结论：&lt;/strong&gt; Similarweb 与 Semrush 的公开内容共同显示，行业测量正从传统排名转向生成式 AI 品牌可见度、引用份额和 AI 搜索广告/商业查询。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Similarweb 页面列出 9 月 17 日的《2026 Generative AI Brand Visibility Index》，并展示可观察 ChatGPT、Google AI Mode 与 AI Overviews 广告的产品更新；均为窗口前的趋势信号。&lt;/li&gt;
+&lt;li&gt;Semrush 当前博客把“AI 从哪里获取信息、如何获得引用”、品牌可见度报告和 ChatGPT 引用变化置于显著位置，说明引用监测已成为 SEO 工具链的标准产品模块。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.similarweb.com/blog/&quot;&gt;https://www.similarweb.com/blog/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.semrush.com/blog/&quot;&gt;https://www.semrush.com/blog/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;4&quot;&gt;4. 资本市场/创业公司信号：暂无高可信新增&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;结论：&lt;/strong&gt; 过去 24 小时未确认 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI、Writesonic 及相邻 AI Search/GEO 公司出现新的高可信融资、并购、IPO/上市、招股书、估值或二级市场事件。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Similarweb 的品牌可见度与 AI Ads 产品信号、Semrush 的 AI 引用内容，属于商业化和产品化趋势，不是融资公告。&lt;/li&gt;
+&lt;li&gt;由于搜索结果噪声和资本数据库覆盖不足，以上是“在本次可核验来源中未发现”，不是对全市场绝对不存在事件的断言。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.similarweb.com/blog/&quot;&gt;https://www.similarweb.com/blog/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.semrush.com/blog/&quot;&gt;https://www.semrush.com/blog/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;_3&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;继续监测 Google Search、OpenAI News 和 Perplexity Blog，重点寻找 AI Mode/Overview、ChatGPT Search 的引用展示、来源选择与商业查询变化。&lt;/li&gt;
+&lt;li&gt;建立“检索进入率 → 被引用率 → 答案位置 → 情绪/事实准确性 → AI 引荐转化”基线，避免只看品牌是否出现。&lt;/li&gt;
+&lt;li&gt;资本与商业化方面，跟踪 Profound、AthenaHQ、Peec AI、Otterly.AI 的融资、合作、客户规模和并购信号；当前更明确的是细分工具链和预算争夺，而非新增资本事件。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;结论：过去 24 小时未发现高可信新增融资/上市动态。&lt;/strong&gt; 本次没有确认目标公司或相邻 AI Search/GEO 公司新的融资轮次、并购、IPO/上市、招股书、二级市场交易或估值更新。检索对象覆盖 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI、Writesonic，以及 BrightEdge、Semrush、Ahrefs、Similarweb、Yext、Conductor、Botify 等成熟工具链公司。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;商业化信号：&lt;/strong&gt; Similarweb 公开页面在 9 月 17 日展示《2026 Generative AI Brand Visibility Index》，并保留 AI Ads 产品更新；这支持“AI 搜索可见度监测正在向预算可归因的品牌/广告情报扩展”的判断，但不是融资或上市证据。来源：&lt;a href=&quot;https://www.similarweb.com/blog/。可信度：公司一手产品/研究页面为高；资本外推为中低。&quot;&gt;https://www.similarweb.com/blog/。可信度：公司一手产品/研究页面为高；资本外推为中低。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;方法论信号：&lt;/strong&gt; Semrush 公开博客持续围绕 AI 引用、品牌可见度和 ChatGPT 引用变化组织内容，说明 SEO 厂商正在把 GEO 纳入标准产品叙事。来源：&lt;a href=&quot;https://www.semrush.com/blog/。可信度：公司一手内容为高；不构成资本事件证明。&quot;&gt;https://www.semrush.com/blog/。可信度：公司一手内容为高；不构成资本事件证明。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资本判断：&lt;/strong&gt; 当前结论可信度为中低，原因是实时搜索后端异常、公开页面无法覆盖付费数据库、交易所文件和未公告融资；不得把“未检索到”写成“确定没有”。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;_4&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;检索窗口：&lt;/strong&gt; 2026-09-20 09:02:53 至 2026-09-21 09:02:53，Asia/Singapore；日报日期为 2026-09-21。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;实际后端：&lt;/strong&gt; 使用默认 &lt;code&gt;web_search&lt;/code&gt; 共 10 次、&lt;code&gt;web_extract&lt;/code&gt; 共提取 12 个 URL。当前环境未暴露可用的 SearXNG-local 或 Tavily 接口。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fallback 与异常：&lt;/strong&gt; &lt;code&gt;web_search&lt;/code&gt; 结果出现明显无关噪声、重复/泛化首页、过旧页面和错误匹配（例如字典、搜索首页、Chegg、Bricorama 等）。按强制收敛规则停止重复查询，改用已取得的官方新闻页、公司博客和高可信行业页面做有限核验；未把噪声结果当作事实来源。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;提取失败：&lt;/strong&gt; 12 个 URL 中 11 个返回非空内容，&lt;code&gt;[https://blogs.microsoft.com/blog/&lt;/code&gt;](https://blogs.microsoft.com/blog/`) 返回 404，已跳过且未引用。TechCrunch 分类页返回信息过少，未作为正文事实依据。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源数量与交叉验证：&lt;/strong&gt; 正文主要使用 6 个可核验页面，覆盖 5 个独立域名（Google、OpenAI、Perplexity、Semrush、Similarweb）。平台公开页之间可做跨域观察，但没有发现由两个以上独立高可信来源共同确认的窗口内新 GEO 事件；融资/上市部分尤其缺乏独立交叉验证，因此降低结论强度。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;限制：&lt;/strong&gt; 本期未能可靠覆盖付费媒体、融资数据库、交易所文件和社交平台动态。历史页面只能作为趋势续报，不能替代过去 24 小时新闻；“无新增”仅表示在本次可核验来源中未发现。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;_5&quot;&gt;主要来源清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/products/search/&quot;&gt;https://blog.google/products/search/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/news/&quot;&gt;https://openai.com/news/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog&quot;&gt;https://www.perplexity.ai/hub/blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog/q2d-web&quot;&gt;https://www.perplexity.ai/hub/blog/q2d-web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.semrush.com/blog/&quot;&gt;https://www.semrush.com/blog/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.similarweb.com/blog/&quot;&gt;https://www.similarweb.com/blog/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-09-20</title>
+    <link href="https://daily.localgpt.net/2026-09-20-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-09-20-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-09-20-geo-daily/</id>
+    <updated>2026-09-20T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-09-20</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;口径：Asia/Singapore，过去 24 小时为 2026-09-19 09:00 至 2026-09-20 09:00。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今日结论&lt;/h2&gt;
+&lt;p&gt;今日 GEO 无重大新增，附昨日趋势延续。过去 24 小时内，未能从可核验的一手来源确认 Google AI Overview/AI Mode、ChatGPT 搜索、Perplexity 或其他主流答案引擎发生新的引用机制、可见度指标或产品政策变化。现有高可信页面显示，行业仍在从“是否被提及”扩展到“被哪些来源引用、在答案中的位置、品牌情绪、提示词需求和 AI 爬虫访问”等可量化指标。&lt;/p&gt;
+&lt;h2 id=&quot;_2&quot;&gt;主要动态&lt;/h2&gt;
+&lt;h3 id=&quot;1-geo&quot;&gt;1. 主流答案引擎暂无窗口内可确认的重大 GEO 变更&lt;/h3&gt;
+&lt;p&gt;Google Search 官方新闻页未呈现过去 24 小时内可确认的 AI Overview/AI Mode 重大公告；OpenAI 新闻室最近可见条目为 9 月 9 日及更早，Perplexity 博客最近可见研究条目为 9 月 9 日。以上属于“未确认新增”，不是对平台内部灰度实验的否定。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/products/search/&quot;&gt;https://blog.google/products/search/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/news/company-announcements/&quot;&gt;https://openai.com/news/company-announcements/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog&quot;&gt;https://www.perplexity.ai/hub/blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-geo&quot;&gt;2. “引用质量 + 可见度”继续成为 GEO 测量主轴（趋势续报）&lt;/h3&gt;
+&lt;p&gt;Profound、AthenaHQ、Peec AI 与 OtterlyAI 的当前产品页，分别把来源引用、品牌提及、Share of Voice/Visibility、答案位置、情绪、提示词量和 AI 爬虫/代理分析放在核心功能位置。市场竞争正在从单次排名监测转向跨模型、跨提示词、跨来源的持续观测。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/&quot;&gt;https://www.tryprofound.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.athenahq.ai/&quot;&gt;https://www.athenahq.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://peec.ai/&quot;&gt;https://peec.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://otterly.ai/&quot;&gt;https://otterly.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;3&quot;&gt;3. 检索评测开始向“代理查询规模与首阶段召回”延伸（历史续报）&lt;/h3&gt;
+&lt;p&gt;Perplexity 9 月 9 日发布的 Q2D-Web 研究介绍了覆盖 7 万个代理查询、1.9 亿网页文档和多组相关性判断的评测框架。对 GEO 的启示是：内容不仅要争取最终答案引用，还要进入代理检索的候选集合，并持续验证来源可读性、实体一致性与答案可引用性。&lt;/p&gt;
+&lt;p&gt;来源：https://www.perplexity.ai/hub/blog/q2d-web&lt;/p&gt;
+&lt;h3 id=&quot;4&quot;&gt;4. 资本市场与创业公司信号：暂无高可信新增&lt;/h3&gt;
+&lt;p&gt;过去 24 小时未确认到 GEO/AI Search 相关公司的新融资、并购、IPO/上市、招股书或估值变化。Profound、AthenaHQ、Peec AI、OtterlyAI 的公开页面仍显示产品化和商业化推进，但这些页面没有提供窗口内的资本事件，不能据此推断融资或估值变化。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/&quot;&gt;https://www.tryprofound.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.athenahq.ai/&quot;&gt;https://www.athenahq.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://peec.ai/&quot;&gt;https://peec.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://otterly.ai/&quot;&gt;https://otterly.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;_3&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;继续观察 Google AI Mode/AI Overview、ChatGPT Search 与 Perplexity 官方新闻页，重点寻找引用展示、来源选择、代理检索和商业查询覆盖的明确变更。&lt;/li&gt;
+&lt;li&gt;把 GEO 监测从“品牌是否出现”升级为四项看板：出现率、引用来源、答案位置、情绪/事实准确性；优先做跨模型同提示词基线。&lt;/li&gt;
+&lt;li&gt;资本与商业化方面，跟踪 Profound、AthenaHQ、Peec AI、OtterlyAI 是否出现融资、合作、客户规模披露或并购信号；当前更明确的信号是工具链细分和企业预算争夺，而非新增资本事件。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;结论：过去 24 小时未发现高可信新增融资/上市动态。未确认到目标公司或相邻 AI Search/GEO 公司新的融资轮次、并购、IPO/上市、招股书、二级市场交易或估值更新。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Profound&lt;/strong&gt;：官网当前强调 Answer Engine Insights、Prompt Volumes、Agent Analytics、AEO Report 和跨答案引擎营销平台；属于产品与商业化信号，不是融资公告。来源：&lt;a href=&quot;https://www.tryprofound.com/。可信度：产品能力为公司一手页面；资本结论不适用。&quot;&gt;https://www.tryprofound.com/。可信度：产品能力为公司一手页面；资本结论不适用。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AthenaHQ&lt;/strong&gt;：官网强调 AEO/GEO 工作台、11+ LLM 可见度追踪、引用源分析和执行型优化流程；页面可见 YC/媒体历史背书，但没有窗口内资本事件。来源：&lt;a href=&quot;https://www.athenahq.ai/。可信度：产品定位为一手来源；融资/估值信息未得到窗口内独立交叉验证。&quot;&gt;https://www.athenahq.ai/。可信度：产品定位为一手来源；融资/估值信息未得到窗口内独立交叉验证。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Peec AI&lt;/strong&gt;：官网定位为 AI Search Analytics，核心指标包括 Visibility、Position、Sentiment，并列出 ChatGPT/Gemini/AI Mode 等跟踪入口。来源：&lt;a href=&quot;https://peec.ai/。可信度：产品能力为一手页面；客户数量和商业规模等营销表述未作外部验证。&quot;&gt;https://peec.ai/。可信度：产品能力为一手页面；客户数量和商业规模等营销表述未作外部验证。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OtterlyAI&lt;/strong&gt;：官网定位为跨 ChatGPT、Perplexity、AI Overviews、AI Mode、Gemini 和 Copilot 的监测、审计与 GEO 优化平台。来源：&lt;a href=&quot;https://otterly.ai/。可信度：产品定位为一手页面；未发现窗口内融资、上市或并购公告。&quot;&gt;https://otterly.ai/。可信度：产品定位为一手页面；未发现窗口内融资、上市或并购公告。&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;_4&quot;&gt;延伸观察&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;行业术语正在从 GEO 逐渐分化为 AEO、AI Search Analytics、Answer Engine Insights、Agent Analytics 等产品模块，说明预算归属可能从传统 SEO 工具扩展到品牌、内容、PR 和增长团队。&lt;/li&gt;
+&lt;li&gt;Perplexity 的 Q2D-Web 研究与 Semrush 当前博客对“引用来源/AI 品牌可见度”的持续强调，支持一个更稳健的测量框架：检索进入率 → 被引用率 → 答案位置 → 品牌情绪与事实准确性 → AI 引荐转化。&lt;/li&gt;
+&lt;li&gt;华万营销 GEO 页面显示中国市场仍在把 GEO 与内容批量生产、媒体矩阵发布和本土大模型收录结合；其页面资讯最新可见为 9 月 5 日，属于历史续报，不能作为过去 24 小时新闻。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_5&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;检索窗口&lt;/strong&gt;：2026-09-19 09:00 至 2026-09-20 09:00（Asia/Singapore）；本日报日期为 2026-09-20。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;实际后端&lt;/strong&gt;：默认 &lt;code&gt;web_search&lt;/code&gt; 与 &lt;code&gt;web_extract&lt;/code&gt;。环境未暴露可用的 SearXNG-local 或 Tavily 接口，因此没有可切换的独立补充搜索后端。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fallback 与异常&lt;/strong&gt;：默认搜索在前 10 次调用内出现明显噪声、无关结果、重复结果和过旧/泛化页面（例如将 GEO 误匹配为基因表达数据库、搜索首页或非相关论坛）。按收敛规则停止重复查询，改用已取得的官方新闻页和公司产品页做有限核验。没有把搜索噪声结果当作事实来源。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;提取范围&lt;/strong&gt;：成功核验 12 个 URL，覆盖 OpenAI、Google Search、Perplexity、Semrush、Profound、AthenaHQ、Peec AI、OtterlyAI、Kimi、华万营销 GEO 和 AI 工具集等页面。作为正文事实依据的主要是官方新闻页/产品页；AI 工具集为二手资讯入口，仅用于判断是否存在明显行业线索，未单独支撑 GEO 重大新闻。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;交叉验证&lt;/strong&gt;：主流平台部分使用 Google、OpenAI、Perplexity 三个独立官方域名；创业公司部分以各公司一手页面为主。过去 24 小时未发现可由两个以上独立高可信来源交叉确认的 GEO 新闻，因此对“无新增”采用保守表述，不能排除未公开、灰度或尚未被页面索引的变化。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;限制&lt;/strong&gt;：由于实时搜索后端异常，本期无法可靠完成全网新闻覆盖，特别是融资数据库、交易所文件、付费媒体和社交平台动态覆盖不足；资本市场结论仅表示“在本次可核验来源中未发现”，不等同于全市场绝对不存在事件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;_6&quot;&gt;主要来源清单&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/news/company-announcements/&quot;&gt;https://openai.com/news/company-announcements/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/products/search/&quot;&gt;https://blog.google/products/search/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog&quot;&gt;https://www.perplexity.ai/hub/blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/hub/blog/q2d-web&quot;&gt;https://www.perplexity.ai/hub/blog/q2d-web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.semrush.com/blog/&quot;&gt;https://www.semrush.com/blog/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tryprofound.com/&quot;&gt;https://www.tryprofound.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.athenahq.ai/&quot;&gt;https://www.athenahq.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://peec.ai/&quot;&gt;https://peec.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://otterly.ai/&quot;&gt;https://otterly.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.kimi.com/&quot;&gt;https://www.kimi.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.geo.cn/&quot;&gt;https://www.geo.cn/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ai-bot.cn/daily-ai-news/&quot;&gt;https://ai-bot.cn/daily-ai-news/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>GEO 早报 2026-09-19</title>
+    <link href="https://daily.localgpt.net/2026-09-19-geo-daily/" rel="alternate" type="text/html"/>
+    <link href="https://daily.localgpt.net/2026-09-19-geo-daily.md" rel="alternate" type="text/markdown"/>
+    <id>https://daily.localgpt.net/2026-09-19-geo-daily/</id>
+    <updated>2026-09-19T00:00:00Z</updated>
+    <author><name>James Zhan</name></author>
+    <summary>GEO 早报 2026-09-19</summary>
+    <content type="html">
+&lt;blockquote&gt;
+&lt;p&gt;过去 24 小时窗口：2026-09-18 09:00—2026-09-19 09:00（Asia/Singapore）。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;_1&quot;&gt;今日结论&lt;/h2&gt;
+&lt;p&gt;今日 GEO 无重大新增，附昨日趋势延续。当前没有足够高可信、可在上述窗口内核验的 Google AI Overview / AI Mode、ChatGPT 搜索引用、Perplexity、Claude、Gemini 或 Copilot 机制变更，也没有可确认的 GEO 方法论、测量框架或重大产品发布。以下内容将“窗口内新事件”与“仍在持续的产品面”分开，避免用旧资料冒充当日新闻。&lt;/p&gt;
+&lt;h2 id=&quot;_2&quot;&gt;主要动态&lt;/h2&gt;
+&lt;h3 id=&quot;1-ai&quot;&gt;1. AI 搜索产品：未确认窗口内的新发布&lt;/h3&gt;
+&lt;p&gt;Google Search 官方新闻页当前可见内容仍是通用 Search 使用场景，并未给出可核验的 AI Overview / AI Mode 窗口内公告；OpenAI 官方 Release Notes 最新可见条目为 2026-09-14，早于本次 24 小时窗口，且不是搜索引用机制更新。因此，暂不能把任何排名、引用或回答生成机制变化写成今日事实。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.google/products/search/&quot;&gt;https://blog.google/products/search/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/products/release-notes/&quot;&gt;https://openai.com/products/release-notes/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2&quot;&gt;2. 回答引擎的“可检索入口”继续常态化&lt;/h3&gt;
+&lt;p&gt;ChatGPT 当前产品页继续展示 Web search 入口；Perplexity 官方博客仍以研究、产品与想法为主要内容面；Anthropic 新闻页继续围绕模型、产品与安全发布。它们支持一个趋势判断：AI 可见度不再只是 SEO 附属指标，而是需要持续观察的产品分发面。但本轮没有在来源中核验到新的引用规则、排名信号或可量化可见度指标变化，故仅作趋势续报。&lt;/p&gt;
+&lt;p&gt;来源：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://chatgpt.com/&quot;&gt;https://chatgpt.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.perplexity.ai/&quot;&gt;https://blog.perplexity.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.anthropic.com/news&quot;&gt;https://www.anthropic.com/news&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;3-geo&quot;&gt;3. GEO 测量与方法论：暂无可确认的新框架&lt;/h3&gt;
+&lt;p&gt;本窗口未找到可核验的新研究、行业基准或官方测量 API 更新。实践上仍应把品牌/产品被回答引擎提及、引用来源、答案位置、事实准确率和不同提示词下的波动分开记录，不要只用传统自然排名替代 GEO 指标。&lt;/p&gt;
+&lt;h2 id=&quot;geo&quot;&gt;GEO 新兴公司融资与上市观察&lt;/h2&gt;
+&lt;p&gt;过去 24 小时未发现高可信新增融资/上市动态；也未发现 Profound、AthenaHQ、Peec AI、Otterly.AI、Scrunch AI、Goodie AI 等 GEO/AI Search 可见度公司的可核验融资、并购、IPO、招股书或估值公告。由于搜索结果噪声较高，不能据此断言市场没有交易，只能判断本轮没有公开、可交叉验证的新增信号。可信度：中低（搜索覆盖受限，未获得公司公告、监管文件或高可信财经媒体的正向证据）。&lt;/p&gt;
+&lt;p&gt;可作为行业背景核验的官方产品入口（不是融资公告）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://openai.com/&quot;&gt;https://openai.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.anthropic.com/news&quot;&gt;https://www.anthropic.com/news&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.perplexity.ai/&quot;&gt;https://blog.perplexity.ai/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;值得跟踪的投资趋势：资本更可能继续偏好“AI 搜索可见度数据层 + 内容/品牌执行闭环”，而不是单一的提示词排名报告；后续应优先寻找有重复测量数据、企业工作流集成和可归因转化的公司。&lt;/p&gt;
+&lt;h2 id=&quot;_3&quot;&gt;今天值得跟进&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;继续核验 Google Search 是否发布带明确日期的 AI Overview / AI Mode 更新，并记录答案引用结构是否变化。&lt;/li&gt;
+&lt;li&gt;对 ChatGPT、Perplexity、Claude 的同一组品牌提示词做小样本复测，分别记录是否出现、引用哪些域名、答案位置及事实偏差。&lt;/li&gt;
+&lt;li&gt;关注 Profound、Peec AI、Scrunch AI、AthenaHQ、Otterly.AI 等公司的官方公告与可信融资披露；在出现公司公告或监管文件前，不采信聚合站和社交平台的融资传闻。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;_4&quot;&gt;检索质量与来源说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;检索窗口&lt;/strong&gt;：2026-09-18 09:00—2026-09-19 09:00（Asia/Singapore）；当前日期按 Asia/Singapore 确认为 2026-09-19。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;实际搜索/提取后端&lt;/strong&gt;：使用默认 web_search；随后使用 web_extract 提取官方页面。环境未暴露可用的 SearXNG-local 或 Tavily 补充后端，因此没有可切换的第二搜索后端。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fallback 与失败类型&lt;/strong&gt;：默认搜索共 10 次后判定异常，出现大量无关 GEO（基因表达数据库）结果、泛首页、中文旧文、重复结果和无法证明窗口内发布时间的结果；未继续重复查询。官方页面提取成功，但部分页面为动态首页、没有日期或只展示较早条目。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;来源数量&lt;/strong&gt;：实际提取 11 个 URL，覆盖 OpenAI、ChatGPT、Google Search、Gemini、Perplexity、Anthropic、Kimi 等 9 个域名/子域；其中可用于本日报事实核验的主要一手页面为 Google Search 官方页、OpenAI Release Notes、ChatGPT 产品页、Perplexity Blog、Anthropic Newsroom。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;交叉验证限制&lt;/strong&gt;：没有获得过去 24 小时内可由两家独立高可信来源共同确认的 GEO 新闻；融资/上市部分也未获得公司公告、监管文件或可信财经媒体正向证据。因此正文降低结论强度，并将产品能力与行业趋势明确标为趋势续报，而非当日新事件。&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+</feed>
