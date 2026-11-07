@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daily.localgpt.net/sitemap.xml
+Llms-Txt: https://daily.localgpt.net/llms.txt
